@@ -14,6 +14,7 @@ songs/YYYY-MM-DD-song-slug/
   assets/audio/             original audio and versioned mixes
   assets/stems/             separated instrument and vocal files
   assets/artwork/           covers, source artwork, export variants
+  assets/artwork/thumbnails/ static YouTube thumbnail exports
   assets/video/             lyric videos and visualizers
   assets/project/           editable production projects
   assets/evidence/          screenshots and verification evidence
@@ -32,6 +33,13 @@ Create asset subfolders only when needed. Keep all alternative takes of one song
 ## Creative brief
 
 Record the purpose, language, lyrical focus, musical feel, vocal direction, instrumentation, target duration, references, and exclusions. Kingdom perspective in AGENTS.md applies to biblical music and visuals. A reference describes a creative target; document whether it was actually heard and what qualities were identified.
+
+## Lyric videos and YouTube thumbnails
+
+All new videos, lyric videos, visualizers, and matching thumbnails use the approved [RUACH Anthem — Breath into Song identity](../channel/ruach-anthem/identity-approved-v001/README.md). Use its distinct musical-note/breath emblem and wordmark; preserve the established layout and historical releases. Record the exact branding source in each song project.
+Follow the approved [RUACH lyric-video standard](LYRIC-VIDEO-STANDARD.md). Deliver 1080p only with the consistent RUACH layout, plain lyrics, and subtle next-line preview. Create a unique motion background that expresses the particular song's vibe and message and is distinguishable from other songs at preview size.
+
+Record the exact video revision and user approval date. Once approved, create a matching static YouTube thumbnail and save its export and editable assets in the song folder. Track thumbnail review separately. Follow the [YouTube release standard](YOUTUBE-RELEASE-STANDARD.md) to upload approved songs to RUACH Anthem under the user's standing authorization, with full lyrics in the description and the title `[SONG TITLE] by RUACH`. Use the visual-production fields in the song template to retain the concept, provenance, approvals, and deliverable links.
 
 ## Prompts and platform records
 

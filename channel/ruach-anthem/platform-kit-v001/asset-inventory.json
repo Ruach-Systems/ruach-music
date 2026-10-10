@@ -1,0 +1,106 @@
+[
+  {
+    "file": "youtube/profile-800.png",
+    "width": 800,
+    "height": 800,
+    "mode": "RGB",
+    "bytes": 438905,
+    "use": "Profile avatar; centered symbol, no text"
+  },
+  {
+    "file": "instagram/profile-1080.png",
+    "width": 1080,
+    "height": 1080,
+    "mode": "RGB",
+    "bytes": 726623,
+    "use": "Profile avatar; centered symbol, no text"
+  },
+  {
+    "file": "facebook/profile-1080.png",
+    "width": 1080,
+    "height": 1080,
+    "mode": "RGB",
+    "bytes": 726623,
+    "use": "Profile avatar; centered symbol, no text"
+  },
+  {
+    "file": "tiktok/profile-1080.png",
+    "width": 1080,
+    "height": 1080,
+    "mode": "RGB",
+    "bytes": 726623,
+    "use": "Profile avatar; centered symbol, no text"
+  },
+  {
+    "file": "spotify/profile-1024.png",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "bytes": 667095,
+    "use": "Profile avatar; centered symbol, no text"
+  },
+  {
+    "file": "youtube/banner-2560x1440.png",
+    "width": 2560,
+    "height": 1440,
+    "mode": "RGB",
+    "bytes": 1396269,
+    "use": "Channel banner"
+  },
+  {
+    "file": "youtube/watermark-150.png",
+    "width": 150,
+    "height": 150,
+    "mode": "RGB",
+    "bytes": 18775,
+    "use": "Video watermark"
+  },
+  {
+    "file": "facebook/cover-1640x624.png",
+    "width": 1640,
+    "height": 624,
+    "mode": "RGB",
+    "bytes": 602289,
+    "use": "Cover artwork; check platform crop preview"
+  },
+  {
+    "file": "general/logo-light-background-transparent.png",
+    "width": 1774,
+    "height": 887,
+    "mode": "RGBA",
+    "bytes": 331602,
+    "use": "Dark wordmark for light backgrounds; RGBA"
+  },
+  {
+    "file": "general/logo-dark-background.png",
+    "width": 760,
+    "height": 310,
+    "mode": "RGB",
+    "bytes": 195843,
+    "use": "White lockup on opaque dark background"
+  },
+  {
+    "file": "previews/youtube-mobile-safe-area.png",
+    "width": 1546,
+    "height": 423,
+    "mode": "RGB",
+    "bytes": 374646,
+    "use": "Central safe-area proof"
+  },
+  {
+    "file": "previews/circular-avatar.png",
+    "width": 320,
+    "height": 320,
+    "mode": "RGBA",
+    "bytes": 90598,
+    "use": "Circular crop proof"
+  },
+  {
+    "file": "previews/platform-overview.jpg",
+    "width": 1200,
+    "height": 800,
+    "mode": "RGB",
+    "bytes": 53831,
+    "use": "Visual overview"
+  }
+]
