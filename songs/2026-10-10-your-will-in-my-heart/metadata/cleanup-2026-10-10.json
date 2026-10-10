@@ -1,0 +1,526 @@
+{
+  "date": "2026-10-10",
+  "reason": "User requested cleanup of superseded video revisions 001-004, draft projects, rejected identity concept and superseded style proposal",
+  "files": [
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\video\\ruach-your-will-in-my-heart-v2-slow-lyric-video-v001.mp4",
+      "bytes": 36568318
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\video\\ruach-your-will-in-my-heart-lyric-video-v002.mp4",
+      "bytes": 36576096
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\video\\ruach-your-will-in-my-heart-lyric-video-v003.mp4",
+      "bytes": 38097955
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\video\\ruach-your-will-in-my-heart-lyric-video-v004.mp4",
+      "bytes": 37572207
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\align.py",
+      "bytes": 1524
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\alignment-review.json",
+      "bytes": 556
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\check-004.jpg",
+      "bytes": 55489
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\check-016.jpg",
+      "bytes": 56967
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\check-049.jpg",
+      "bytes": 59230
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\check-131.jpg",
+      "bytes": 53242
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\check-175.jpg",
+      "bytes": 55185
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\check-231.jpg",
+      "bytes": 57215
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\check-250.jpg",
+      "bytes": 54389
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\contact-sheet.jpg",
+      "bytes": 130919
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\cues.json",
+      "bytes": 8813
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\lyrics.ass",
+      "bytes": 7844
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\lyrics.srt",
+      "bytes": 4174
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\Manrope-OFL.txt",
+      "bytes": 4387
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\preview-15.jpg",
+      "bytes": 56733
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\README.md",
+      "bytes": 2783
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\render.py",
+      "bytes": 3701
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\transcribe.py",
+      "bytes": 1060
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\transcript.json",
+      "bytes": 54887
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\verification.json",
+      "bytes": 1239
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\verify.py",
+      "bytes": 2639
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\fonts\\Manrope-800.ttf",
+      "bytes": 97972
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\visuals\\aurora-meadow-loop.mp4",
+      "bytes": 2719946
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\visuals\\ruach-lockup-white.png",
+      "bytes": 10696
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v001\\visuals\\source-loop-verification.json",
+      "bytes": 257
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\check-004.jpg",
+      "bytes": 54259
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\check-016.jpg",
+      "bytes": 56950
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\check-049.jpg",
+      "bytes": 59075
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\check-131.jpg",
+      "bytes": 53273
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\check-175.jpg",
+      "bytes": 55236
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\check-231.jpg",
+      "bytes": 57170
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\check-250.jpg",
+      "bytes": 54318
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\contact-sheet.jpg",
+      "bytes": 130829
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\cues.json",
+      "bytes": 8813
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\lyrics.ass",
+      "bytes": 7958
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\lyrics.srt",
+      "bytes": 4174
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\Manrope-OFL.txt",
+      "bytes": 4387
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\preview-12.jpg",
+      "bytes": 56207
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\preview-4.jpg",
+      "bytes": 54442
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\README.md",
+      "bytes": 874
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\render.py",
+      "bytes": 3784
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\verification.json",
+      "bytes": 1300
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\verify.py",
+      "bytes": 2631
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\fonts\\Manrope-800.ttf",
+      "bytes": 97972
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\visuals\\aurora-meadow-loop.mp4",
+      "bytes": 2719946
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\visuals\\ruach-lockup-white.png",
+      "bytes": 10696
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v002\\visuals\\source-loop-verification.json",
+      "bytes": 257
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\check-004.jpg",
+      "bytes": 51828
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\check-042.jpg",
+      "bytes": 58128
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\check-055.jpg",
+      "bytes": 62277
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\check-131.jpg",
+      "bytes": 52645
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\check-175.jpg",
+      "bytes": 57112
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\check-231.jpg",
+      "bytes": 58112
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\check-250.jpg",
+      "bytes": 52128
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\contact-sheet.jpg",
+      "bytes": 131180
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\cues.json",
+      "bytes": 56503
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\lyrics.ass",
+      "bytes": 174448
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\lyrics.srt",
+      "bytes": 4174
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\Manrope-OFL.txt",
+      "bytes": 4387
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\preview-42.jpg",
+      "bytes": 58128
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\README.md",
+      "bytes": 1592
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\render.py",
+      "bytes": 5322
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\transcript.json",
+      "bytes": 54887
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\verification.json",
+      "bytes": 1224
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\verify.py",
+      "bytes": 2631
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\word-alignment.json",
+      "bytes": 390
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\caption-fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\caption-fonts\\RUACH-Lyric.ttf",
+      "bytes": 97688
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\fonts\\Manrope-800.ttf",
+      "bytes": 97972
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\visuals\\aurora-meadow-loop.mp4",
+      "bytes": 2719946
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\visuals\\ruach-lockup-white.png",
+      "bytes": 10696
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v003\\visuals\\source-loop-verification.json",
+      "bytes": 257
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\analysis-provenance.json",
+      "bytes": 722
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\apply-reviewed-timing.py",
+      "bytes": 849
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\boundary-comparison.json",
+      "bytes": 13121
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\boundary-detail.jpg",
+      "bytes": 66331
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-004.jpg",
+      "bytes": 51828
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-042.jpg",
+      "bytes": 58115
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-055.jpg",
+      "bytes": 53051
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-131.jpg",
+      "bytes": 52612
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-175.jpg",
+      "bytes": 57125
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-231.jpg",
+      "bytes": 58089
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-250.jpg",
+      "bytes": 52128
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\check-timing.py",
+      "bytes": 1219
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\contact-sheet.jpg",
+      "bytes": 129210
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\cues.json",
+      "bytes": 65391
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\final-boundary-comparison.json",
+      "bytes": 13681
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\lyrics.ass",
+      "bytes": 173347
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\lyrics.srt",
+      "bytes": 4174
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\Manrope-OFL.txt",
+      "bytes": 4480
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\onset-waveform-review.jpg",
+      "bytes": 129803
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\README.md",
+      "bytes": 2032
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\refine-timing.py",
+      "bytes": 6935
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\release-waveform-review.jpg",
+      "bytes": 70194
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\render.py",
+      "bytes": 5374
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\timing-overrides.json",
+      "bytes": 681
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\timing-verification.json",
+      "bytes": 274
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-And-active.png",
+      "bytes": 1248800
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-before-And.png",
+      "bytes": 1250924
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-before-vocal.png",
+      "bytes": 1251437
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-contact-sheet.jpg",
+      "bytes": 164779
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-first-word-active.png",
+      "bytes": 1256620
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-held-King.png",
+      "bytes": 1269414
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-held-today.png",
+      "bytes": 1257810
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-held-You.png",
+      "bytes": 1228767
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\transition-verification.json",
+      "bytes": 999
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\verification.json",
+      "bytes": 1281
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\verify-transitions.py",
+      "bytes": 1412
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\verify.py",
+      "bytes": 2827
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\caption-fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\caption-fonts\\RUACH-Lyric.ttf",
+      "bytes": 97688
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\fonts\\Manrope-600.ttf",
+      "bytes": 97508
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\fonts\\Manrope-800.ttf",
+      "bytes": 97972
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\visuals\\aurora-meadow-loop.mp4",
+      "bytes": 2719946
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\visuals\\ruach-lockup-white.png",
+      "bytes": 10696
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\visuals\\source-loop-verification.json",
+      "bytes": 257
+    },
+    {
+      "path": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v004\\__pycache__\\render.cpython-312.pyc",
+      "bytes": 9940
+    },
+    {
+      "path": "channel\\ruach-anthem\\identity-v001\\identity-board.png",
+      "bytes": 1246057
+    },
+    {
+      "path": "channel\\ruach-anthem\\identity-v001\\logo-primary-concept-transparent.png",
+      "bytes": 454728
+    },
+    {
+      "path": "channel\\ruach-anthem\\identity-v001\\profile-approved-ruach.png",
+      "bytes": 15729
+    },
+    {
+      "path": "channel\\ruach-anthem\\identity-v001\\prompts.txt",
+      "bytes": 2110
+    },
+    {
+      "path": "channel\\ruach-anthem\\identity-v001\\README.md",
+      "bytes": 2260
+    },
+    {
+      "path": "docs\\LYRIC-VIDEO-STYLE-PROPOSAL.md",
+      "bytes": 499
+    }
+  ]
+}

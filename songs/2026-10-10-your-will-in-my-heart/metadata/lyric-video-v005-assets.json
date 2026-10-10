@@ -1,0 +1,130 @@
+{
+  "date": "2026-10-10",
+  "assets": [
+    {
+      "path": "assets/project/lyric-video-v005/caption-fonts/Manrope-600.ttf",
+      "bytes": 97508,
+      "sha256": "0599da7f89a3e56fdda60b349b9b0e6f87232e5e15b1ecca669cfc44d5be2109"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/caption-fonts/RUACH-Lyric.ttf",
+      "bytes": 97688,
+      "sha256": "8ef087c8a2f5708e474c30b4a0e16ac3b8feb4c5656fcbdeda672dd6a36c136b"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/check-004.jpg",
+      "bytes": 139204,
+      "sha256": "570e5dd1c6ccf7fe0065a778ac192eaf6b86c39272bbf0315c6ce3e50130c611"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/check-042.jpg",
+      "bytes": 154073,
+      "sha256": "358721f8f295a09b102e9f72ee8b329cc864a68b70d49a97140540d4b81b34ef"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/check-055.jpg",
+      "bytes": 138716,
+      "sha256": "f8e5ab5d31a13f63d813406c270555049e9965264fa8aeb4acefce7d1827a4b0"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/check-131.jpg",
+      "bytes": 135571,
+      "sha256": "c1c985389df2d151070489344e515c3b8fcbbb42967a5b2bcaae79e69130dfd7"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/check-175.jpg",
+      "bytes": 152277,
+      "sha256": "e4710901233632cf7cf880e867a7156bddc53acf79acdffb5897ba053b0d1fc4"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/check-231.jpg",
+      "bytes": 148368,
+      "sha256": "ca350d2db74f20134c399537971d5dc1645c4ef82820adee8ad783035a019710"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/check-250.jpg",
+      "bytes": 139928,
+      "sha256": "85cf0dcd134fc050beb793fcba96748da6a2fa98c514892d2e1356f728f9a060"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/contact-sheet.jpg",
+      "bytes": 130399,
+      "sha256": "7dd154247e495d94f9e18841469718e65ed7b1c821cea7400310d90677a1ecab"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/cues.json",
+      "bytes": 65391,
+      "sha256": "169f02deaedc605bf11f08a1442cf388e193ce4cfd3cd7af517cdd2e5fdc53a8"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/lyrics.ass",
+      "bytes": 16169,
+      "sha256": "98ac8d3f9aa39247dad5e3045a930a9e632ee41bac941e1572b0a31ecfa02dda"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/lyrics.srt",
+      "bytes": 4174,
+      "sha256": "b4c1cd1373c8a536765709a629f4fccaaf901e27646c6ecc5e75d5c8af48d066"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/Manrope-OFL.txt",
+      "bytes": 4480,
+      "sha256": "4b8929f05a122b7abb9059501dc7dc4df86f8c97d5a1769d60d82cf2d2795dde"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/prepare-background.py",
+      "bytes": 482,
+      "sha256": "689119a141982e6d66e6161a8ee0db18d65499e8d6b2f226ef440b5bc2061a02"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/preview-42.jpg",
+      "bytes": 154457,
+      "sha256": "305096cfd415d533e1b7cd296b2c7fe74a91a0847b39be5d9aaa9c91f4b3ee70"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/README.md",
+      "bytes": 1355,
+      "sha256": "a4171b52469ce3aa322380b3493f931d1aa7292b020d5da604d525cbd57ceb68"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/render.py",
+      "bytes": 4143,
+      "sha256": "cdf2c644eba6c32b1aaefd53b1970c317e60c868c57394030be57c4b36bd9192"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/verification.json",
+      "bytes": 1337,
+      "sha256": "a4387fe3ac6ab5266231c684181d72c739f4959f0b3d98183524df0855739ed8"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/verify.py",
+      "bytes": 3236,
+      "sha256": "ef19a2609fd5967acca648709f04e5697fcaba561fb7749cc2d4fe286d72325e"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/visuals/aurora-meadow-4k-prepared.mp4",
+      "bytes": 27277778,
+      "sha256": "59c3f9269ac675d93696714a68fe8e810726da2d55395ea6bedd04ec2d4714b9"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/visuals/aurora-meadow-loop.mp4",
+      "bytes": 2719946,
+      "sha256": "cbeec91cee964f34c6c63fa0b3af1dda01b951c97af9978a42c1a38c6a174b48"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/visuals/ruach-lockup-white.png",
+      "bytes": 10696,
+      "sha256": "505b5dbfa6b1ea725c3a9a9f79693376dbf3bd8dba912fc531f876ddc124bde6"
+    },
+    {
+      "path": "assets/project/lyric-video-v005/visuals/source-loop-verification.json",
+      "bytes": 257,
+      "sha256": "212f7f005ec488d91e94825d297d9fd7cd1d8dea9bed841429a1459e280fb4fd"
+    },
+    {
+      "path": "assets/video/ruach-your-will-in-my-heart-lyric-video-v005-4k.mp4",
+      "bytes": 380975629,
+      "sha256": "5ad2872f8ea8c8c12427a015acea1fec0572ddec3bd8a285c4b04213df4a6b49"
+    }
+  ]
+}

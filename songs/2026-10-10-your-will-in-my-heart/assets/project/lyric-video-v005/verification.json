@@ -1,0 +1,44 @@
+{
+  "word_highlighting": false,
+  "next_line_preview": true,
+  "background_source": "1920x1080 upscaled with Lanczos and light sharpening; typography rendered at 4K",
+  "source_audio_correlation": 0.9996954112198848,
+  "output": "assets\\video\\ruach-your-will-in-my-heart-lyric-video-v005-4k.mp4",
+  "duration_seconds": 256.766667,
+  "bytes": 380975629,
+  "sha256": "5ad2872f8ea8c8c12427a015acea1fec0572ddec3bd8a285c4b04213df4a6b49",
+  "streams": [
+    {
+      "type": "video",
+      "codec": "h264",
+      "duration": 256.76666666666665,
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "audio",
+      "codec": "aac",
+      "duration": 256.7539909297052,
+      "width": null,
+      "height": null
+    }
+  ],
+  "full_decode_passed": true,
+  "lyric_cues": 60,
+  "all_cue_ranges_valid": true,
+  "subtitle_overlaps": false,
+  "audio_changes": "AAC encode at 224 kbps for MP4; no speed change, processing, added sound, or trim intended",
+  "visual_qa_frames_seconds": [
+    4,
+    42,
+    55,
+    131,
+    175,
+    231,
+    250
+  ],
+  "human_full_listening_review": "pending",
+  "timing_method": "Vocal-stem CTC word alignment and vocal energy release tracking; full listening approval pending",
+  "sampled_visual_review": "passed",
+  "sampled_lyric_area_crimson_pixels": 0
+}

@@ -1,0 +1,2924 @@
+[
+  {
+    "start": 12.371,
+    "end": 15.874,
+    "text": "Evening settles on the fields,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Evening",
+        "start": 12.651,
+        "end": 13.341,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "settles",
+        "start": 13.562,
+        "end": 14.142,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "on",
+        "start": 14.503,
+        "end": 14.743,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "the",
+        "start": 14.863,
+        "end": 14.923,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "fields,",
+        "start": 15.043,
+        "end": 15.754,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 12.651,
+    "vocal_end": 15.754
+  },
+  {
+    "start": 15.874,
+    "end": 19.177,
+    "text": "Daylight leaves the windowpane.",
+    "matched_words": 3,
+    "total_words": 4,
+    "words": [
+      {
+        "text": "Daylight",
+        "start": 16.014,
+        "end": 16.725,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "leaves",
+        "start": 16.965,
+        "end": 17.366,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "the",
+        "start": 17.426,
+        "end": 17.526,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "windowpane.",
+        "start": 17.646,
+        "end": 19.057,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 16.014,
+    "vocal_end": 19.057
+  },
+  {
+    "start": 19.418,
+    "end": 22.431,
+    "text": "I lay my plans before You, King,",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "I",
+        "start": 19.698,
+        "end": 19.768,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "lay",
+        "start": 19.868,
+        "end": 20.049,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 20.129,
+        "end": 20.209,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "plans",
+        "start": 20.329,
+        "end": 20.729,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "before",
+        "start": 20.809,
+        "end": 21.33,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You,",
+        "start": 21.47,
+        "end": 21.63,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "King,",
+        "start": 21.811,
+        "end": 22.311,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 19.698,
+    "vocal_end": 22.311
+  },
+  {
+    "start": 23.192,
+    "end": 25.824,
+    "text": "And softly speak Your name.",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "And",
+        "start": 23.472,
+        "end": 23.573,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "softly",
+        "start": 23.693,
+        "end": 24.213,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "speak",
+        "start": 24.313,
+        "end": 24.634,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 24.754,
+        "end": 25.054,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "name.",
+        "start": 25.214,
+        "end": 25.704,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 23.472,
+    "vocal_end": 25.704
+  },
+  {
+    "start": 25.894,
+    "end": 29.476,
+    "text": "Jesus, all my days are Yours,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Jesus,",
+        "start": 26.174,
+        "end": 26.804,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "all",
+        "start": 27.105,
+        "end": 27.245,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 27.345,
+        "end": 27.585,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "days",
+        "start": 27.745,
+        "end": 28.346,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "are",
+        "start": 28.446,
+        "end": 28.526,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Yours,",
+        "start": 28.586,
+        "end": 29.356,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 26.174,
+    "vocal_end": 29.356
+  },
+  {
+    "start": 29.476,
+    "end": 32.719,
+    "text": "Every road and everything.",
+    "matched_words": 4,
+    "total_words": 4,
+    "words": [
+      {
+        "text": "Every",
+        "start": 29.637,
+        "end": 30.027,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "road",
+        "start": 30.307,
+        "end": 30.868,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 31.028,
+        "end": 31.168,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "everything.",
+        "start": 31.588,
+        "end": 32.599,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 29.637,
+    "vocal_end": 32.599
+  },
+  {
+    "start": 33.16,
+    "end": 35.902,
+    "text": "Here beside this quiet light,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Here",
+        "start": 33.44,
+        "end": 33.63,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "beside",
+        "start": 33.69,
+        "end": 34.251,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "this",
+        "start": 34.351,
+        "end": 34.531,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "quiet",
+        "start": 34.711,
+        "end": 35.111,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "light,",
+        "start": 35.231,
+        "end": 35.782,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 33.44,
+    "vocal_end": 35.782
+  },
+  {
+    "start": 35.942,
+    "end": 40.175,
+    "text": "I give my heart to You, my King.",
+    "matched_words": 8,
+    "total_words": 8,
+    "words": [
+      {
+        "text": "I",
+        "start": 36.222,
+        "end": 36.272,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "give",
+        "start": 36.412,
+        "end": 36.613,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 36.693,
+        "end": 36.933,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "heart",
+        "start": 37.113,
+        "end": 37.573,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 37.714,
+        "end": 37.834,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You,",
+        "start": 37.974,
+        "end": 38.114,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 38.394,
+        "end": 38.714,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "King.",
+        "start": 38.975,
+        "end": 40.055,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 36.222,
+    "vocal_end": 40.055
+  },
+  {
+    "start": 40.385,
+    "end": 44.617,
+    "text": "Jesus, my King, Your will be done,",
+    "matched_words": 6,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "Jesus,",
+        "start": 40.665,
+        "end": 41.325,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 41.585,
+        "end": 41.786,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "King,",
+        "start": 41.986,
+        "end": 42.466,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 42.846,
+        "end": 43.027,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "will",
+        "start": 43.107,
+        "end": 43.407,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "be",
+        "start": 43.527,
+        "end": 43.707,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "done,",
+        "start": 43.927,
+        "end": 44.497,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 40.665,
+    "vocal_end": 44.497
+  },
+  {
+    "start": 44.617,
+    "end": 47.99,
+    "text": "In every word, in all my ways.",
+    "matched_words": 6,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "In",
+        "start": 44.808,
+        "end": 44.888,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "every",
+        "start": 45.128,
+        "end": 45.348,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "word,",
+        "start": 45.429,
+        "end": 45.929,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "in",
+        "start": 46.409,
+        "end": 46.469,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "all",
+        "start": 46.69,
+        "end": 46.81,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 46.95,
+        "end": 47.13,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "ways.",
+        "start": 47.37,
+        "end": 47.99,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 44.808,
+    "vocal_end": 47.99
+  },
+  {
+    "start": 47.99,
+    "end": 51.434,
+    "text": "All power is Yours, Your throne stands sure,",
+    "matched_words": 7,
+    "total_words": 8,
+    "words": [
+      {
+        "text": "All",
+        "start": 47.99,
+        "end": 48.311,
+        "method": "vocal-stem-ctc",
+        "onset_method": "waveform-reviewed-override"
+      },
+      {
+        "text": "power",
+        "start": 48.431,
+        "end": 48.851,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "is",
+        "start": 48.971,
+        "end": 49.032,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Yours,",
+        "start": 49.092,
+        "end": 49.632,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 49.712,
+        "end": 49.832,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "throne",
+        "start": 49.892,
+        "end": 50.233,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "stands",
+        "start": 50.333,
+        "end": 50.813,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "sure,",
+        "start": 50.973,
+        "end": 51.423,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 47.99,
+    "vocal_end": 51.423
+  },
+  {
+    "start": 51.434,
+    "end": 54.916,
+    "text": "Through changing winds and passing days.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Through",
+        "start": 51.434,
+        "end": 51.694,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "changing",
+        "start": 51.834,
+        "end": 52.434,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "winds",
+        "start": 52.534,
+        "end": 53.075,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 53.195,
+        "end": 53.255,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "passing",
+        "start": 53.375,
+        "end": 54.056,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "days.",
+        "start": 54.216,
+        "end": 54.796,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 51.434,
+    "vocal_end": 54.796
+  },
+  {
+    "start": 54.994,
+    "end": 58.566,
+    "text": "Holy Spirit, draw me close,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Holy",
+        "start": 55.274,
+        "end": 55.784,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "Spirit,",
+        "start": 55.864,
+        "end": 56.645,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "draw",
+        "start": 56.765,
+        "end": 57.025,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me",
+        "start": 57.246,
+        "end": 57.406,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "close,",
+        "start": 57.626,
+        "end": 58.446,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 55.274,
+    "vocal_end": 58.446
+  },
+  {
+    "start": 58.566,
+    "end": 61.639,
+    "text": "Help me hear and follow through.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Help",
+        "start": 58.687,
+        "end": 58.887,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "me",
+        "start": 58.947,
+        "end": 59.047,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "hear",
+        "start": 59.167,
+        "end": 59.908,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 60.068,
+        "end": 60.148,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "follow",
+        "start": 60.248,
+        "end": 60.849,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "through.",
+        "start": 61.029,
+        "end": 61.519,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 58.687,
+    "vocal_end": 61.519
+  },
+  {
+    "start": 61.76,
+    "end": 65.36,
+    "text": "Let my love say yes today,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Let",
+        "start": 62.04,
+        "end": 62.29,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 62.37,
+        "end": 62.55,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "love",
+        "start": 62.77,
+        "end": 63.09,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "say",
+        "start": 63.23,
+        "end": 63.671,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "yes",
+        "start": 63.931,
+        "end": 64.111,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "today,",
+        "start": 64.251,
+        "end": 65.24,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 62.04,
+    "vocal_end": 65.24
+  },
+  {
+    "start": 65.36,
+    "end": 69.395,
+    "text": "And let my footsteps honor You.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "And",
+        "start": 65.43,
+        "end": 65.45,
+        "method": "vocal-stem-ctc",
+        "onset_method": "waveform-reviewed-override"
+      },
+      {
+        "text": "let",
+        "start": 65.552,
+        "end": 65.713,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 65.813,
+        "end": 66.133,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "footsteps",
+        "start": 66.373,
+        "end": 67.254,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "honor",
+        "start": 67.334,
+        "end": 67.914,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You.",
+        "start": 68.115,
+        "end": 69.275,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 65.43,
+    "vocal_end": 69.275
+  },
+  {
+    "start": 70.806,
+    "end": 73.898,
+    "text": "When the morning calls me out",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "When",
+        "start": 71.086,
+        "end": 71.246,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "the",
+        "start": 71.366,
+        "end": 71.446,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "morning",
+        "start": 71.546,
+        "end": 72.127,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "calls",
+        "start": 72.247,
+        "end": 72.607,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me",
+        "start": 72.707,
+        "end": 72.847,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "out",
+        "start": 73.007,
+        "end": 73.778,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 71.086,
+    "vocal_end": 73.778
+  },
+  {
+    "start": 74.078,
+    "end": 77.49,
+    "text": "To the work my hands must do,",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "To",
+        "start": 74.358,
+        "end": 74.469,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "the",
+        "start": 74.589,
+        "end": 74.709,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "work",
+        "start": 74.789,
+        "end": 75.069,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 75.229,
+        "end": 75.449,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "hands",
+        "start": 75.63,
+        "end": 76.03,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "must",
+        "start": 76.11,
+        "end": 76.53,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "do,",
+        "start": 76.69,
+        "end": 77.37,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 74.358,
+    "vocal_end": 77.37
+  },
+  {
+    "start": 77.692,
+    "end": 80.754,
+    "text": "Let the kindness in my voice",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Let",
+        "start": 77.972,
+        "end": 78.152,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "the",
+        "start": 78.212,
+        "end": 78.292,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "kindness",
+        "start": 78.412,
+        "end": 79.052,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "in",
+        "start": 79.213,
+        "end": 79.313,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 79.513,
+        "end": 79.753,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "voice",
+        "start": 79.953,
+        "end": 80.754,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 77.972,
+    "vocal_end": 80.754
+  },
+  {
+    "start": 80.754,
+    "end": 84.176,
+    "text": "Show that I belong to You.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Show",
+        "start": 80.754,
+        "end": 81.094,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "that",
+        "start": 81.414,
+        "end": 81.655,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "I",
+        "start": 82.095,
+        "end": 82.115,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "belong",
+        "start": 82.295,
+        "end": 82.996,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 83.196,
+        "end": 83.296,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You.",
+        "start": 83.376,
+        "end": 84.056,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 80.754,
+    "vocal_end": 84.056
+  },
+  {
+    "start": 84.364,
+    "end": 87.507,
+    "text": "When You ask me to forgive,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "When",
+        "start": 84.644,
+        "end": 84.744,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "You",
+        "start": 84.865,
+        "end": 85.005,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "ask",
+        "start": 85.225,
+        "end": 85.365,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me",
+        "start": 85.525,
+        "end": 85.705,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 86.106,
+        "end": 86.306,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "forgive,",
+        "start": 86.566,
+        "end": 87.387,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 84.644,
+    "vocal_end": 87.387
+  },
+  {
+    "start": 87.797,
+    "end": 91.2,
+    "text": "When You lead me to make peace,",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "When",
+        "start": 88.077,
+        "end": 88.188,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "You",
+        "start": 88.288,
+        "end": 88.408,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "lead",
+        "start": 88.548,
+        "end": 88.848,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me",
+        "start": 88.968,
+        "end": 89.148,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 89.349,
+        "end": 89.529,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "make",
+        "start": 89.769,
+        "end": 90.149,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "peace,",
+        "start": 90.39,
+        "end": 91.08,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 88.077,
+    "vocal_end": 91.08
+  },
+  {
+    "start": 91.2,
+    "end": 94.503,
+    "text": "Let me gladly do Your will,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Let",
+        "start": 91.441,
+        "end": 91.651,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "me",
+        "start": 91.711,
+        "end": 91.811,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "gladly",
+        "start": 91.911,
+        "end": 92.672,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "do",
+        "start": 92.792,
+        "end": 92.972,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 93.172,
+        "end": 93.512,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "will,",
+        "start": 93.673,
+        "end": 94.383,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 91.441,
+    "vocal_end": 94.383
+  },
+  {
+    "start": 94.503,
+    "end": 97.722,
+    "text": "Even when it costs me ease.",
+    "matched_words": 4,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Even",
+        "start": 94.694,
+        "end": 95.134,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "when",
+        "start": 95.574,
+        "end": 95.774,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "it",
+        "start": 95.955,
+        "end": 96.015,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "costs",
+        "start": 96.195,
+        "end": 96.595,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me",
+        "start": 96.655,
+        "end": 96.815,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "ease.",
+        "start": 97.276,
+        "end": 97.722,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 94.694,
+    "vocal_end": 97.722
+  },
+  {
+    "start": 97.722,
+    "end": 101.163,
+    "text": "Jesus, my King, Your will be done,",
+    "matched_words": 6,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "Jesus,",
+        "start": 97.722,
+        "end": 98.322,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 98.402,
+        "end": 98.642,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "King,",
+        "start": 98.922,
+        "end": 99.262,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 99.402,
+        "end": 99.583,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "will",
+        "start": 99.683,
+        "end": 100.043,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "be",
+        "start": 100.123,
+        "end": 100.283,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "done,",
+        "start": 100.483,
+        "end": 101.043,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 97.722,
+    "vocal_end": 101.043
+  },
+  {
+    "start": 101.163,
+    "end": 104.54,
+    "text": "In every word, in all my ways.",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "In",
+        "start": 101.363,
+        "end": 101.563,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "every",
+        "start": 101.703,
+        "end": 101.904,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "word,",
+        "start": 102.004,
+        "end": 102.664,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "in",
+        "start": 102.984,
+        "end": 103.024,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "all",
+        "start": 103.244,
+        "end": 103.384,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 103.504,
+        "end": 103.684,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "ways.",
+        "start": 103.945,
+        "end": 104.54,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 101.363,
+    "vocal_end": 104.54
+  },
+  {
+    "start": 104.54,
+    "end": 108.006,
+    "text": "All power is Yours, Your throne stands sure,",
+    "matched_words": 7,
+    "total_words": 8,
+    "words": [
+      {
+        "text": "All",
+        "start": 104.54,
+        "end": 104.905,
+        "method": "vocal-stem-ctc",
+        "onset_method": "waveform-reviewed-override"
+      },
+      {
+        "text": "power",
+        "start": 105.005,
+        "end": 105.425,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "is",
+        "start": 105.545,
+        "end": 105.605,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Yours,",
+        "start": 105.665,
+        "end": 106.206,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 106.286,
+        "end": 106.426,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "throne",
+        "start": 106.466,
+        "end": 106.826,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "stands",
+        "start": 106.906,
+        "end": 107.386,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "sure,",
+        "start": 107.546,
+        "end": 108.006,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 104.54,
+    "vocal_end": 108.006
+  },
+  {
+    "start": 108.006,
+    "end": 111.548,
+    "text": "Through changing winds and passing days.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Through",
+        "start": 108.006,
+        "end": 108.267,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "changing",
+        "start": 108.407,
+        "end": 109.007,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "winds",
+        "start": 109.127,
+        "end": 109.667,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 109.787,
+        "end": 109.867,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "passing",
+        "start": 109.947,
+        "end": 110.728,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "days.",
+        "start": 110.828,
+        "end": 111.428,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 108.006,
+    "vocal_end": 111.428
+  },
+  {
+    "start": 111.561,
+    "end": 115.142,
+    "text": "Holy Spirit, draw me close,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Holy",
+        "start": 111.841,
+        "end": 112.361,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "Spirit,",
+        "start": 112.421,
+        "end": 113.262,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "draw",
+        "start": 113.362,
+        "end": 113.582,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me",
+        "start": 113.842,
+        "end": 113.982,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "close,",
+        "start": 114.202,
+        "end": 115.022,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 111.841,
+    "vocal_end": 115.022
+  },
+  {
+    "start": 115.142,
+    "end": 118.313,
+    "text": "Help me hear and follow through.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Help",
+        "start": 115.272,
+        "end": 115.462,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "me",
+        "start": 115.522,
+        "end": 115.602,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "hear",
+        "start": 115.742,
+        "end": 116.463,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 116.663,
+        "end": 116.743,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "follow",
+        "start": 116.823,
+        "end": 117.463,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "through.",
+        "start": 117.623,
+        "end": 118.193,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 115.272,
+    "vocal_end": 118.193
+  },
+  {
+    "start": 118.343,
+    "end": 121.784,
+    "text": "Let my love say yes today,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Let",
+        "start": 118.623,
+        "end": 118.883,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 118.943,
+        "end": 119.183,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "love",
+        "start": 119.363,
+        "end": 119.683,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "say",
+        "start": 119.824,
+        "end": 120.244,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "yes",
+        "start": 120.444,
+        "end": 120.704,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "today,",
+        "start": 120.804,
+        "end": 121.664,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 118.623,
+    "vocal_end": 121.664
+  },
+  {
+    "start": 121.784,
+    "end": 125.795,
+    "text": "And let my footsteps honor You.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "And",
+        "start": 121.954,
+        "end": 122.044,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "let",
+        "start": 122.124,
+        "end": 122.284,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 122.364,
+        "end": 122.684,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "footsteps",
+        "start": 122.944,
+        "end": 123.825,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "honor",
+        "start": 123.945,
+        "end": 124.485,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You.",
+        "start": 124.745,
+        "end": 125.675,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 121.954,
+    "vocal_end": 125.675
+  },
+  {
+    "start": 139.03,
+    "end": 142.272,
+    "text": "Holy Spirit, here with me,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Holy",
+        "start": 139.31,
+        "end": 139.861,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "Spirit,",
+        "start": 139.921,
+        "end": 140.481,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "here",
+        "start": 141.021,
+        "end": 141.341,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "with",
+        "start": 141.461,
+        "end": 141.622,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me,",
+        "start": 141.702,
+        "end": 142.152,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 139.31,
+    "vocal_end": 142.152
+  },
+  {
+    "start": 142.462,
+    "end": 146.074,
+    "text": "You know all I hold inside.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "You",
+        "start": 142.742,
+        "end": 142.922,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "know",
+        "start": 142.982,
+        "end": 143.262,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "all",
+        "start": 143.703,
+        "end": 143.843,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "I",
+        "start": 144.063,
+        "end": 144.083,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "hold",
+        "start": 144.263,
+        "end": 144.663,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "inside.",
+        "start": 144.883,
+        "end": 145.954,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 142.742,
+    "vocal_end": 145.954
+  },
+  {
+    "start": 146.144,
+    "end": 149.366,
+    "text": "When my heart would turn away,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "When",
+        "start": 146.424,
+        "end": 146.464,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 146.604,
+        "end": 146.784,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "heart",
+        "start": 146.904,
+        "end": 147.385,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "would",
+        "start": 147.485,
+        "end": 147.645,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "turn",
+        "start": 147.705,
+        "end": 148.305,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "away,",
+        "start": 148.465,
+        "end": 149.246,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 146.424,
+    "vocal_end": 149.246
+  },
+  {
+    "start": 149.366,
+    "end": 152.567,
+    "text": "Gently bring it to the light.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Gently",
+        "start": 149.586,
+        "end": 150.046,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "bring",
+        "start": 150.266,
+        "end": 150.687,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "it",
+        "start": 150.867,
+        "end": 150.927,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 151.047,
+        "end": 151.307,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "the",
+        "start": 151.547,
+        "end": 151.647,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "light.",
+        "start": 151.747,
+        "end": 152.447,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 149.586,
+    "vocal_end": 152.447
+  },
+  {
+    "start": 152.704,
+    "end": 155.756,
+    "text": "Teach me how to walk with You,",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "Teach",
+        "start": 152.984,
+        "end": 153.234,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "me",
+        "start": 153.334,
+        "end": 153.474,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "how",
+        "start": 153.855,
+        "end": 154.175,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 154.355,
+        "end": 154.455,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "walk",
+        "start": 154.555,
+        "end": 154.876,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "with",
+        "start": 154.976,
+        "end": 155.156,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You,",
+        "start": 155.236,
+        "end": 155.636,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 152.984,
+    "vocal_end": 155.636
+  },
+  {
+    "start": 156.167,
+    "end": 159.529,
+    "text": "Keep me mindful through the day.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Keep",
+        "start": 156.447,
+        "end": 156.637,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "me",
+        "start": 156.717,
+        "end": 156.858,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "mindful",
+        "start": 157.098,
+        "end": 157.858,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "through",
+        "start": 157.939,
+        "end": 158.279,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "the",
+        "start": 158.419,
+        "end": 158.519,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "day.",
+        "start": 158.619,
+        "end": 159.409,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 156.447,
+    "vocal_end": 159.409
+  },
+  {
+    "start": 160.021,
+    "end": 163.063,
+    "text": "When I hear the King\u2019s command,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "When",
+        "start": 160.301,
+        "end": 160.501,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "I",
+        "start": 160.641,
+        "end": 160.661,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "hear",
+        "start": 160.781,
+        "end": 161.081,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "the",
+        "start": 161.221,
+        "end": 161.322,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "King\u2019s",
+        "start": 161.422,
+        "end": 161.982,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "command,",
+        "start": 162.062,
+        "end": 162.943,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 160.301,
+    "vocal_end": 162.943
+  },
+  {
+    "start": 163.063,
+    "end": 167.315,
+    "text": "Help me answer and obey.",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Help",
+        "start": 163.323,
+        "end": 163.544,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "me",
+        "start": 163.624,
+        "end": 163.744,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "answer",
+        "start": 164.344,
+        "end": 164.805,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 165.025,
+        "end": 165.205,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "obey.",
+        "start": 165.665,
+        "end": 167.315,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 163.323,
+    "vocal_end": 167.315
+  },
+  {
+    "start": 167.315,
+    "end": 169.826,
+    "text": "Over every land and sea,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Over",
+        "start": 167.315,
+        "end": 167.555,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "every",
+        "start": 167.915,
+        "end": 168.176,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "land",
+        "start": 168.256,
+        "end": 168.656,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 168.836,
+        "end": 168.936,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "sea,",
+        "start": 169.096,
+        "end": 169.706,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 167.315,
+    "vocal_end": 169.706
+  },
+  {
+    "start": 170.328,
+    "end": 173.47,
+    "text": "Over all that breathes and lives,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Over",
+        "start": 170.608,
+        "end": 170.978,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "all",
+        "start": 171.238,
+        "end": 171.398,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "that",
+        "start": 171.499,
+        "end": 171.599,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "breathes",
+        "start": 171.679,
+        "end": 172.279,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 172.399,
+        "end": 172.479,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "lives,",
+        "start": 172.559,
+        "end": 173.35,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 170.608,
+    "vocal_end": 173.35
+  },
+  {
+    "start": 173.511,
+    "end": 177.063,
+    "text": "Jesus, Yours the right to rule,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Jesus,",
+        "start": 173.791,
+        "end": 174.221,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "Yours",
+        "start": 174.321,
+        "end": 174.882,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "the",
+        "start": 174.962,
+        "end": 175.062,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "right",
+        "start": 175.162,
+        "end": 175.682,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 175.782,
+        "end": 175.902,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "rule,",
+        "start": 176.003,
+        "end": 177.063,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 173.791,
+    "vocal_end": 177.063
+  },
+  {
+    "start": 177.063,
+    "end": 180.444,
+    "text": "Yours the word that stands and lives.",
+    "matched_words": 6,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "Yours",
+        "start": 177.063,
+        "end": 177.444,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "the",
+        "start": 177.524,
+        "end": 177.624,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "word",
+        "start": 177.724,
+        "end": 178.084,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "that",
+        "start": 178.164,
+        "end": 178.345,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "stands",
+        "start": 178.465,
+        "end": 179.165,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 179.285,
+        "end": 179.366,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "lives.",
+        "start": 179.446,
+        "end": 180.426,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 177.063,
+    "vocal_end": 180.426
+  },
+  {
+    "start": 180.444,
+    "end": 183.656,
+    "text": "Let Your Kingdom come through me,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Let",
+        "start": 180.444,
+        "end": 180.614,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "Your",
+        "start": 180.714,
+        "end": 180.974,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Kingdom",
+        "start": 181.094,
+        "end": 181.835,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "come",
+        "start": 181.975,
+        "end": 182.275,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "through",
+        "start": 182.395,
+        "end": 182.916,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me,",
+        "start": 183.056,
+        "end": 183.536,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 180.444,
+    "vocal_end": 183.536
+  },
+  {
+    "start": 183.837,
+    "end": 187.088,
+    "text": "In the small things love can do.",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "In",
+        "start": 184.117,
+        "end": 184.197,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "the",
+        "start": 184.317,
+        "end": 184.397,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "small",
+        "start": 184.477,
+        "end": 184.897,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "things",
+        "start": 185.037,
+        "end": 185.458,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "love",
+        "start": 185.638,
+        "end": 185.998,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "can",
+        "start": 186.098,
+        "end": 186.238,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "do.",
+        "start": 186.338,
+        "end": 186.968,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 184.117,
+    "vocal_end": 186.968
+  },
+  {
+    "start": 187.48,
+    "end": 190.362,
+    "text": "With a willing, quiet heart,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "With",
+        "start": 187.76,
+        "end": 188.06,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "a",
+        "start": 188.1,
+        "end": 188.12,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "willing,",
+        "start": 188.22,
+        "end": 188.881,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "quiet",
+        "start": 189.061,
+        "end": 189.641,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "heart,",
+        "start": 189.741,
+        "end": 190.242,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 187.76,
+    "vocal_end": 190.242
+  },
+  {
+    "start": 190.502,
+    "end": 194.104,
+    "text": "I will give my yes to You.",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "I",
+        "start": 190.782,
+        "end": 190.942,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "will",
+        "start": 191.042,
+        "end": 191.383,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "give",
+        "start": 191.483,
+        "end": 191.763,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 191.923,
+        "end": 192.364,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "yes",
+        "start": 192.584,
+        "end": 192.804,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 192.984,
+        "end": 193.104,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You.",
+        "start": 193.224,
+        "end": 193.984,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 190.782,
+    "vocal_end": 193.984
+  },
+  {
+    "start": 194.995,
+    "end": 199.397,
+    "text": "Jesus, my King, Your will be done,",
+    "matched_words": 6,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "Jesus,",
+        "start": 195.275,
+        "end": 195.995,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 196.215,
+        "end": 196.456,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "King,",
+        "start": 196.656,
+        "end": 197.136,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 197.536,
+        "end": 197.737,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "will",
+        "start": 197.817,
+        "end": 198.177,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "be",
+        "start": 198.297,
+        "end": 198.457,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "done,",
+        "start": 198.657,
+        "end": 199.277,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 195.275,
+    "vocal_end": 199.277
+  },
+  {
+    "start": 199.397,
+    "end": 202.88,
+    "text": "In every word, in all my ways.",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "In",
+        "start": 199.608,
+        "end": 199.658,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "every",
+        "start": 199.938,
+        "end": 200.159,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "word,",
+        "start": 200.239,
+        "end": 200.819,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "in",
+        "start": 201.279,
+        "end": 201.339,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "all",
+        "start": 201.56,
+        "end": 201.68,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 201.82,
+        "end": 202.02,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "ways.",
+        "start": 202.22,
+        "end": 202.88,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 199.608,
+    "vocal_end": 202.88
+  },
+  {
+    "start": 202.88,
+    "end": 206.484,
+    "text": "All power is Yours, Your throne stands sure,",
+    "matched_words": 8,
+    "total_words": 8,
+    "words": [
+      {
+        "text": "All",
+        "start": 202.88,
+        "end": 203.241,
+        "method": "vocal-stem-ctc",
+        "onset_method": "waveform-reviewed-override"
+      },
+      {
+        "text": "power",
+        "start": 203.361,
+        "end": 203.841,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "is",
+        "start": 203.922,
+        "end": 203.982,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Yours,",
+        "start": 204.042,
+        "end": 204.602,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Your",
+        "start": 204.682,
+        "end": 204.842,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "throne",
+        "start": 204.882,
+        "end": 205.263,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "stands",
+        "start": 205.343,
+        "end": 205.823,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "sure,",
+        "start": 205.983,
+        "end": 206.453,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 202.88,
+    "vocal_end": 206.453
+  },
+  {
+    "start": 206.484,
+    "end": 210.096,
+    "text": "Through changing winds and passing days.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Through",
+        "start": 206.484,
+        "end": 206.744,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "changing",
+        "start": 206.904,
+        "end": 207.504,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "winds",
+        "start": 207.625,
+        "end": 208.205,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 208.325,
+        "end": 208.405,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "passing",
+        "start": 208.485,
+        "end": 209.206,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "days.",
+        "start": 209.366,
+        "end": 209.976,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 206.484,
+    "vocal_end": 209.976
+  },
+  {
+    "start": 210.154,
+    "end": 213.766,
+    "text": "Holy Spirit, draw me close,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Holy",
+        "start": 210.434,
+        "end": 210.954,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "Spirit,",
+        "start": 211.034,
+        "end": 211.855,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "draw",
+        "start": 211.955,
+        "end": 212.255,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me",
+        "start": 212.435,
+        "end": 212.616,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "close,",
+        "start": 212.816,
+        "end": 213.646,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 210.434,
+    "vocal_end": 213.646
+  },
+  {
+    "start": 213.766,
+    "end": 217.139,
+    "text": "Help me hear and follow through.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Help",
+        "start": 213.917,
+        "end": 214.157,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "me",
+        "start": 214.197,
+        "end": 214.277,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "hear",
+        "start": 214.397,
+        "end": 215.078,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 215.318,
+        "end": 215.378,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "follow",
+        "start": 215.478,
+        "end": 216.078,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "through.",
+        "start": 216.299,
+        "end": 217.019,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 213.917,
+    "vocal_end": 217.019
+  },
+  {
+    "start": 217.139,
+    "end": 220.502,
+    "text": "Let my love say yes today,",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "Let",
+        "start": 217.349,
+        "end": 217.58,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 217.66,
+        "end": 217.86,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "love",
+        "start": 218.08,
+        "end": 218.4,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "say",
+        "start": 218.54,
+        "end": 218.841,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "yes",
+        "start": 219.121,
+        "end": 219.441,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "today,",
+        "start": 219.561,
+        "end": 220.382,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 217.349,
+    "vocal_end": 220.382
+  },
+  {
+    "start": 220.502,
+    "end": 224.594,
+    "text": "And let my footsteps honor You.",
+    "matched_words": 6,
+    "total_words": 6,
+    "words": [
+      {
+        "text": "And",
+        "start": 220.672,
+        "end": 220.782,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "let",
+        "start": 220.862,
+        "end": 221.042,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "my",
+        "start": 221.142,
+        "end": 221.443,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "footsteps",
+        "start": 221.703,
+        "end": 222.584,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "honor",
+        "start": 222.804,
+        "end": 223.344,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "You.",
+        "start": 223.504,
+        "end": 224.474,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 220.672,
+    "vocal_end": 224.474
+  },
+  {
+    "start": 226.145,
+    "end": 229.487,
+    "text": "Holy Spirit, here with me,",
+    "matched_words": 4,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Holy",
+        "start": 226.425,
+        "end": 226.936,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "Spirit,",
+        "start": 227.016,
+        "end": 228.077,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "here",
+        "start": 228.217,
+        "end": 228.537,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "with",
+        "start": 228.637,
+        "end": 228.797,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "me,",
+        "start": 228.897,
+        "end": 229.367,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 226.425,
+    "vocal_end": 229.367
+  },
+  {
+    "start": 230.048,
+    "end": 233.27,
+    "text": "As the night grows still and deep.",
+    "matched_words": 5,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "As",
+        "start": 230.328,
+        "end": 230.499,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "the",
+        "start": 230.599,
+        "end": 230.679,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "night",
+        "start": 230.799,
+        "end": 231.119,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "grows",
+        "start": 231.239,
+        "end": 231.78,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "still",
+        "start": 231.92,
+        "end": 232.36,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "and",
+        "start": 232.52,
+        "end": 232.6,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "deep.",
+        "start": 232.66,
+        "end": 233.15,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 230.328,
+    "vocal_end": 233.15
+  },
+  {
+    "start": 233.731,
+    "end": 237.414,
+    "text": "Jesus, You are King forever,",
+    "matched_words": 5,
+    "total_words": 5,
+    "words": [
+      {
+        "text": "Jesus,",
+        "start": 234.011,
+        "end": 234.462,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "You",
+        "start": 234.562,
+        "end": 234.722,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "are",
+        "start": 235.002,
+        "end": 235.122,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "King",
+        "start": 235.242,
+        "end": 235.663,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "forever,",
+        "start": 235.923,
+        "end": 237.294,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 234.011,
+    "vocal_end": 237.294
+  },
+  {
+    "start": 237.495,
+    "end": 243.239,
+    "text": "All my days are Yours to lead.",
+    "matched_words": 7,
+    "total_words": 7,
+    "words": [
+      {
+        "text": "All",
+        "start": 237.775,
+        "end": 238.085,
+        "method": "vocal-stem-ctc",
+        "onset_method": "ctc-with-local-vocal-energy-rise"
+      },
+      {
+        "text": "my",
+        "start": 238.165,
+        "end": 238.405,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "days",
+        "start": 238.565,
+        "end": 239.866,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "are",
+        "start": 240.186,
+        "end": 240.347,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "Yours",
+        "start": 240.507,
+        "end": 241.908,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "to",
+        "start": 242.088,
+        "end": 242.228,
+        "method": "vocal-stem-ctc"
+      },
+      {
+        "text": "lead.",
+        "start": 242.348,
+        "end": 243.119,
+        "method": "vocal-stem-ctc"
+      }
+    ],
+    "vocal_start": 237.775,
+    "vocal_end": 243.119
+  }
+]

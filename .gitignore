@@ -9,3 +9,6 @@ Desktop.ini
 **/__pycache__/
 *.tmp
 *.part
+
+# Approved large video retained locally; user excluded it from Git on 2026-10-10.
+/songs/2026-10-10-your-will-in-my-heart/assets/video/ruach-your-will-in-my-heart-lyric-video-v005-4k.mp4

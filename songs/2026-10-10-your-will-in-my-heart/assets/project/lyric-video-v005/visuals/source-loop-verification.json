@@ -1,0 +1,11 @@
+{
+  "duration": 10,
+  "fps": 30,
+  "frames": 300,
+  "resolution": "1920x1080",
+  "cycle_endpoint_max_difference": 0.0,
+  "seam_mean_change": 0.09270608281893004,
+  "normal_mean_change": 0.0917772633744856,
+  "decode_ok": true,
+  "bytes": 2719946
+}
