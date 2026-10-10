@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-10",
+  "brand": "RUACH",
+  "branding_type": "ID3v2.3 artist/album artist, title, album, year, genre, track, brand comment, lyrics, embedded approved logo; no audible watermark or cryptographic identity signature",
+  "artwork_file": "assets/artwork/ruach-living-breath-crimson-1024.png",
+  "artwork_source": "D:\\WORK\\MY APPS\\My Business\\ruach-brand-guide\\platforms\\apple\\AppIcon.appiconset\\RUACH-Light-1024.png",
+  "artwork_sha256": "c5b69dd4cb81e093a92aca34e2c85527a0b1e25352dec110f459aa2583a7cf36",
+  "tool": "Mutagen ID3; FFmpeg audio-payload hash verification",
+  "notes": "Existing encoder provenance preserved. Unverified BPM removed from branded copy; original metadata retained in originals. User version labels do not establish mapping to Suno take IDs.",
+  "files": [
+    {
+      "version": "V1",
+      "source_file": "D:\\MUSIC\\SoundTap Recordings\\Your Will in My Heart v1.mp3",
+      "original_file": "assets/audio/originals/your-will-in-my-heart-v1-original.mp3",
+      "branded_file": "assets/audio/branded/ruach-your-will-in-my-heart-v1-branded-v001.mp3",
+      "duration_seconds": 259.11278911564625,
+      "sample_rate_hz": 44100,
+      "bitrate_bps": 224000,
+      "source_sha256": "a9b1a12a87d5836847324f970fe7532b23a775df1106ad273fa4d7abd882abb2",
+      "branded_sha256": "9369df5f308b232ad6d9e326315ad3d40f4d4eba9c9430940b5ffe91bdb88f9d",
+      "audio_stream_hash": "SHA256=9288bdaeeda19edda00e4725f2b812fd3417427baf618dc55346185771ac0f8b",
+      "audio_stream_unchanged": true,
+      "provider_take_mapping": "Unconfirmed; user filename retained",
+      "embedded_lyrics": "Original written lyrics; alignment to sung audio unverified",
+      "listening_review": "pending"
+    },
+    {
+      "version": "V2 (Slow)",
+      "source_file": "D:\\MUSIC\\SoundTap Recordings\\Your Will in My Heart v2 (slow).mp3",
+      "original_file": "assets/audio/originals/your-will-in-my-heart-v2-slow-original.mp3",
+      "branded_file": "assets/audio/branded/ruach-your-will-in-my-heart-v2-slow-branded-v001.mp3",
+      "duration_seconds": 256.7543764172336,
+      "sample_rate_hz": 44100,
+      "bitrate_bps": 224000,
+      "source_sha256": "417e048f034cbf202ef10f1fc09c3f7f3d9e82e5de9ca363db5caf1fb8500e35",
+      "branded_sha256": "bc05f3d4cf036fe56baa27df2e8baa9006362b28a79c55e60f94e1de3ac45ac7",
+      "audio_stream_hash": "SHA256=e2de8beed0ed0a725eaa71b21bf135440cb4be594c6cdffd404d89a7f28a9bea",
+      "audio_stream_unchanged": true,
+      "provider_take_mapping": "Unconfirmed; user filename retained",
+      "embedded_lyrics": "Original written lyrics; alignment to sung audio unverified",
+      "listening_review": "pending"
+    }
+  ]
+}
