@@ -27,6 +27,7 @@
 
 ## YouTube releases
 
+- Follow `docs/MP3-BRANDING-STANDARD.md` for every future branded song: ID3v2.3 RUACH artist/album artist, accurate song metadata, brand comment, full lyrics, and approved RUACH Anthem front-cover artwork. Preserve originals, version derivatives, and verify unchanged compressed audio hashes. No audible watermark or cryptographic signature is implied.
 - The approved channel identity is [RUACH Anthem — Breath into Song](channel/ruach-anthem/identity-approved-v001/README.md), approved 2026-10-10. Use its distinct musical-note/breath emblem for new channel identity work; do not substitute the parent RUACH two-ribbon logo. Preserve historical releases.
 
 - Follow `docs/YOUTUBE-RELEASE-STANDARD.md`. The destination is RUACH Anthem, `@RuachAnthem`, channel ID `UCrEm70zv0iTkSro5cl_pdAg`.

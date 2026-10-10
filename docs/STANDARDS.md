@@ -57,6 +57,7 @@ Before release, record the approved take/mix, artwork, credits, relevant permiss
 
 ## Asset handling and Git
 
+- Apply the [MP3 metadata branding standard](MP3-BRANDING-STANDARD.md) to every future song and release copy, using the approved RUACH Anthem artwork and verified unchanged audio.
 - Preserve original downloads and provenance. Keep edited exports separate from source assets.
 - Store associated assets in the song folder. For assets intentionally stored externally, include a durable URL/path and the reason in metadata; do not claim they are in the repository.
 - Use UTF-8 text and relative paths within packages. Do not store credentials or private account data.

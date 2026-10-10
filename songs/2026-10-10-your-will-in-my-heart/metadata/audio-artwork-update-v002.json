@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-10",
+  "branding": "RUACH Anthem approved artwork; ID3v2.3",
+  "artwork_source": "channel\\ruach-anthem\\identity-approved-v001\\ruach-anthem-avatar.png",
+  "artwork_sha256": "8077317365406339cac1ffaa15d1b57a341cc3dbad068d4fe522e67648f15de5",
+  "files": [
+    {
+      "source": "assets\\audio\\branded\\ruach-your-will-in-my-heart-v1-branded-v001.mp3",
+      "file": "assets\\audio\\branded\\ruach-your-will-in-my-heart-v1-branded-v002.mp3",
+      "source_sha256": "9369df5f308b232ad6d9e326315ad3d40f4d4eba9c9430940b5ffe91bdb88f9d",
+      "sha256": "7098d42d5bf5444dbd3851955e4c53ae59700b928e6a15dfb89fee722a57da88",
+      "audio_stream_hash": "SHA256=9288bdaeeda19edda00e4725f2b812fd3417427baf618dc55346185771ac0f8b",
+      "audio_stream_unchanged": true,
+      "other_tags_unchanged": true,
+      "artwork_readback_verified": true
+    },
+    {
+      "source": "assets\\audio\\branded\\ruach-your-will-in-my-heart-v2-slow-branded-v001.mp3",
+      "file": "assets\\audio\\branded\\ruach-your-will-in-my-heart-v2-slow-branded-v002.mp3",
+      "source_sha256": "bc05f3d4cf036fe56baa27df2e8baa9006362b28a79c55e60f94e1de3ac45ac7",
+      "sha256": "47d7692f36792429433089a99e9eb017e62a5a3a098fe72252c5e1917fe180b4",
+      "audio_stream_hash": "SHA256=e2de8beed0ed0a725eaa71b21bf135440cb4be594c6cdffd404d89a7f28a9bea",
+      "audio_stream_unchanged": true,
+      "other_tags_unchanged": true,
+      "artwork_readback_verified": true
+    },
+    {
+      "source": "assets\\audio\\releases\\your-will-in-my-heart-by-ruach.mp3",
+      "file": "assets\\audio\\releases\\your-will-in-my-heart-by-ruach-v002.mp3",
+      "source_sha256": "b4d4abf62453e8986aa374361276939604b5684f6bc424bad275de526497b6bc",
+      "sha256": "df87d039e9a591192e0e7058ac162b57d049c187d6afd5773223ac13d19ca671",
+      "audio_stream_hash": "SHA256=e2de8beed0ed0a725eaa71b21bf135440cb4be594c6cdffd404d89a7f28a9bea",
+      "audio_stream_unchanged": true,
+      "other_tags_unchanged": true,
+      "artwork_readback_verified": true
+    }
+  ],
+  "hosted_download_updated": false,
+  "note": "Historical MP3s and published video retained; this updates versioned local derivatives only."
+}

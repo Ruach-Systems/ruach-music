@@ -21,6 +21,8 @@
 
 ## Asset inventory and remaining work
 
+Current MP3 branding uses the approved RUACH Anthem artwork (2026-10-10): [V1 branded v002](assets/audio/branded/ruach-your-will-in-my-heart-v1-branded-v002.mp3), [selected V2 recording branded v002](assets/audio/branded/ruach-your-will-in-my-heart-v2-slow-branded-v002.mp3), and [clean-title release copy v002](assets/audio/releases/your-will-in-my-heart-by-ruach-v002.mp3). [Artwork verification](metadata/audio-artwork-update-v002.json) confirms identical compressed audio, unchanged other tags, and exact embedded artwork readback. Original recordings and historical branded v001 copies below remain preserved. The published video and existing hosted MP3 download have not been replaced by this repository update.
+
 Both user-supplied MP3 exports are archived unchanged, alongside RUACH-branded copies. Branding adds RUACH artist/album artist, version titles, album, genre, year, embedded written lyrics, and the approved Crimson Living Breath logo. Audio-stream hashes match the originals; no re-encoding or audible watermark was applied.
 
 - [RUACH V1 — 4:19](assets/audio/branded/ruach-your-will-in-my-heart-v1-branded-v001.mp3)

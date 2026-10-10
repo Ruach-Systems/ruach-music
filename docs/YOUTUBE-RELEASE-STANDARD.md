@@ -50,6 +50,7 @@ Descriptions must include the full song lyrics. A short song introduction, accur
 
 ## Free MP3 download
 
+Follow the [MP3 metadata branding standard](MP3-BRANDING-STANDARD.md), including the approved RUACH Anthem front-cover artwork, full lyrics, RUACH artist credit, and unchanged-audio verification.
 Offer the approved recording as a free MP3 download with every approved YouTube release. Host it as an asset on a versioned GitHub Release in `Ruach-Systems/ruach-music`, following the first release's approach. This link is public and available to everyone, including subscribers; do not describe it as subscriber-gated or dependent on YouTube Premium.
 
 Keep the release copy in `assets/audio/releases/`, named `song-slug-by-ruach.mp3`. Use the clean song title and RUACH artist metadata, with the approved brand artwork. Preserve the original recording and earlier versions. Avoid re-encoding an existing suitable MP3 merely to change tags.

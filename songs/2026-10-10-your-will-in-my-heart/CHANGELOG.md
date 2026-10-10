@@ -1,5 +1,6 @@
 # Changelog
 
+- 2026-10-10: At the user's request, created branded MP3 v002 derivatives for both takes and the clean-title release copy using the approved RUACH Anthem cover artwork. Verified compressed audio hashes match historical sources, other tags are unchanged, and embedded art matches the approved asset. Adopted repository-wide MP3 metadata branding standard. Published video and hosted download remain historical versions.
 - 2026-10-10: Wrote Kingdom-focused lyrics and peaceful country style direction; user supplied a YouTube musical reference.
 - 2026-10-10: Submitted full lyrics and style in Suno Advanced mode using v6-mini. Two full takes generated at displayed durations 4:19 and 4:18; Suno also produced two v6 previews of 1:00 each.
 - 2026-10-10: Verified saved lyrics and displayed durations through the browser. No listening review or publishing performed.

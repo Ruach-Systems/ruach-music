@@ -11,3 +11,5 @@ The original branded MP3 remains the audio source. Superseded revisions 001–00
 Reproduce with `prepare-background.py`, `render.py`, and `verify.py`. The saved prepared loop can be reused directly. Python dependencies: imageio-ffmpeg, Pillow, mutagen, av, numpy. Rendering uses NVIDIA NVENC; on machines without it, substitute an available H.264 encoder with equivalent quality settings.
 
 See verification.json for actual export measurements and checks. Full listening approval remains pending.
+
+MP3 artwork update (2026-10-10): the same selected recording is now available as `assets/audio/branded/ruach-your-will-in-my-heart-v2-slow-branded-v002.mp3` with approved RUACH Anthem cover art. Its compressed audio is identical. This historical render script retains its original v001 source so the published video remains reproducible; use the v002 derivative for new production. Embedded MP3 artwork does not change visible video overlays.
