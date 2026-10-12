@@ -1,0 +1,13 @@
+{
+  "font": "Manrope 600",
+  "current_lyric_px_range": [
+    97,
+    100
+  ],
+  "next_line_px": 56,
+  "title_header_px": 44,
+  "safe_width_px": 1680,
+  "max_lyric_width_px": 1672.28,
+  "current_min_font_at_390px_width": 19.703125,
+  "next_font_at_390px_width": 11.375
+}

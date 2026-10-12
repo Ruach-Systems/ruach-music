@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "song_title": "Holy Spirit, You Are King",
+  "created_date": "2026-10-10",
+  "timezone": "Asia/Singapore",
+  "takes": [
+    {
+      "take_id": "take-01",
+      "provider": "Suno",
+      "provider_id": "8b8bba66-1529-434c-ab14-9ac8517ddeb2",
+      "url": "https://suno.com/song/8b8bba66-1529-434c-ab14-9ac8517ddeb2",
+      "model": "v6-mini",
+      "displayed_duration": "4:29",
+      "lyrics_file": "lyrics/lyrics-v001.txt",
+      "style_file": "prompts/style-v001.txt",
+      "generation_notes": "prompts/generation-v001.md",
+      "local_audio_file": "assets/audio/originals/holy-spirit-you-are-king-take-01-original.mp3",
+      "listening_review": "pending",
+      "approval": "User selected Take 1 on 2026-10-10; branding requested; release approval not inferred",
+      "release": "not published",
+      "generation_status": "generated; listening review pending"
+    },
+    {
+      "take_id": "take-02",
+      "provider": "Suno",
+      "provider_id": "b1de0262-479e-463a-b54d-b9c1af96c8f1",
+      "url": "https://suno.com/song/b1de0262-479e-463a-b54d-b9c1af96c8f1",
+      "model": "v6-mini",
+      "displayed_duration": "4:29",
+      "lyrics_file": "lyrics/lyrics-v001.txt",
+      "style_file": "prompts/style-v001.txt",
+      "generation_notes": "prompts/generation-v001.md",
+      "local_audio_file": null,
+      "listening_review": "pending",
+      "approval": "pending",
+      "release": "not published",
+      "generation_status": "generated; listening review pending"
+    },
+    {
+      "take_id": "preview-01",
+      "provider": "Suno",
+      "provider_id": "5d7ea2c4-9c33-4814-ab27-41acec9cf479",
+      "url": "https://suno.com/song/5d7ea2c4-9c33-4814-ab27-41acec9cf479",
+      "model": "V6 PREVIEW",
+      "displayed_duration": "1:00",
+      "lyrics_file": "lyrics/lyrics-v001.txt",
+      "style_file": "prompts/style-v001.txt",
+      "generation_notes": "prompts/generation-v001.md",
+      "local_audio_file": null,
+      "listening_review": "pending",
+      "approval": "pending",
+      "release": "not published",
+      "generation_status": "generated; listening review pending"
+    },
+    {
+      "take_id": "preview-02",
+      "provider": "Suno",
+      "provider_id": "d18eed14-ed99-4fc2-9f6b-6150460cef92",
+      "url": "https://suno.com/song/d18eed14-ed99-4fc2-9f6b-6150460cef92",
+      "model": "V6 PREVIEW",
+      "displayed_duration": "1:00",
+      "lyrics_file": "lyrics/lyrics-v001.txt",
+      "style_file": "prompts/style-v001.txt",
+      "generation_notes": "prompts/generation-v001.md",
+      "local_audio_file": null,
+      "listening_review": "pending",
+      "approval": "pending",
+      "release": "not published",
+      "generation_status": "generated; listening review pending"
+    }
+  ]
+}

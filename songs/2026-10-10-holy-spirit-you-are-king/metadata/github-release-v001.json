@@ -1,0 +1,17 @@
+{
+  "tag": "holy-spirit-you-are-king-v001",
+  "url": "https://github.com/Ruach-Systems/ruach-music/releases/tag/holy-spirit-you-are-king-v001",
+  "direct_download": "https://github.com/Ruach-Systems/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3",
+  "public": true,
+  "published_at": "2026-10-12T06:08:20Z",
+  "target_commit": "92279ff279024d83f9394440cce73fe961a59b42",
+  "asset": {
+    "path": "assets/audio/releases/holy-spirit-you-are-king-by-ruach.mp3",
+    "bytes": 7765605,
+    "sha256": "69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda"
+  },
+  "download_head_status": 200,
+  "remote_digest_matches_local": true,
+  "source": "assets/audio/branded/ruach-holy-spirit-you-are-king-take-01-branded-v001.mp3",
+  "notes": "Release copy unchanged; GitHub asset SHA-256 matches branded MP3. No workspace commit or branch push."
+}

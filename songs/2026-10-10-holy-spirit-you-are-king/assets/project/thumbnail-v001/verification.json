@@ -1,0 +1,20 @@
+{
+  "output": "assets\\artwork\\thumbnails\\holy-spirit-you-are-king-youtube-thumbnail-v001.jpg",
+  "size": [
+    1920,
+    1080
+  ],
+  "bytes": 464505,
+  "sha256": "47aad8b32bcef82bccd7225ec876df9851a999769d9eb7de0e1c775b6ef9d36e",
+  "source": "generated-source.png",
+  "tool": "built-in image_gen",
+  "video_revision": "v011",
+  "video_approved": "2026-10-12",
+  "thumbnail_approval": "approved 2026-10-12",
+  "preview_widths": [
+    320,
+    390,
+    640
+  ],
+  "approval_statement": "Looks good. I approve the thumbnail. Please upload the approved video to YouTube with this thumbnail."
+}

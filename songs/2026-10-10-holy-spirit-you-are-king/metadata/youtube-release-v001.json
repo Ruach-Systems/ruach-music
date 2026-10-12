@@ -1,0 +1,47 @@
+{
+  "recorded_at": "2026-10-12T06:12:18.580199+00:00",
+  "video_id": "mhlUouC-sFk",
+  "url": "https://youtu.be/mhlUouC-sFk",
+  "title": "Holy Spirit, You Are King by RUACH",
+  "channel_id": "UCrEm70zv0iTkSro5cl_pdAg",
+  "channel_name_observed": "RUACH Music",
+  "channel_handle_observed": "@RuachMusic7",
+  "status": "published",
+  "visibility": "Public",
+  "made_for_kids": false,
+  "category": "Music",
+  "language": "English",
+  "ai_used": true,
+  "paid_promotion": false,
+  "license": "Standard YouTube License",
+  "instant_premiere": false,
+  "approval_statement": "Looks good. I approve the thumbnail. Please upload the approved video to YouTube with this thumbnail.",
+  "video_revision": "v011",
+  "thumbnail_revision": "v001",
+  "assets": [
+    {
+      "path": "assets/video/ruach-holy-spirit-you-are-king-lyric-video-v011-1080p.mp4",
+      "bytes": 108187533,
+      "sha256": "945622f2d7f0af903de354ca93a1581ed8af82c0c94cc623b5918dfa881a4e8f"
+    },
+    {
+      "path": "assets/artwork/thumbnails/holy-spirit-you-are-king-youtube-thumbnail-v001.jpg",
+      "bytes": 464505,
+      "sha256": "47aad8b32bcef82bccd7225ec876df9851a999769d9eb7de0e1c775b6ef9d36e"
+    },
+    {
+      "path": "assets/audio/releases/holy-spirit-you-are-king-by-ruach.mp3",
+      "bytes": 7765605,
+      "sha256": "69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda"
+    }
+  ],
+  "description_file": "metadata/youtube-description.txt",
+  "checks": "Copyright and Community Guidelines checks complete; no issues found before publication",
+  "verification": "YouTube Studio Video published confirmation; live watch page title/channel/full lyrics/download link verified; playback advanced to 0:08 of 3:52. No independent full listening review.",
+  "evidence": [
+    "assets/evidence/youtube-published-v001.png",
+    "assets/evidence/youtube-watch-v001.png"
+  ],
+  "mp3_release": "https://github.com/Ruach-Systems/ruach-music/releases/tag/holy-spirit-you-are-king-v001",
+  "mp3_download": "https://github.com/Ruach-Systems/ruach-music/releases/download/holy-spirit-you-are-king-v001/holy-spirit-you-are-king-by-ruach.mp3"
+}

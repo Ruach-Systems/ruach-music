@@ -19,8 +19,10 @@
 ## Lyric videos and thumbnails
 
 - For every new video, lyric video, visualizer, and matching thumbnail, use the approved RUACH Anthem **Breath into Song** identity in `channel/ruach-anthem/identity-approved-v001/` and its `platform-kit-v001/` exports. This is the standing brand standard confirmed by the user on 2026-10-10. Use the distinct musical-note/breath emblem and RUACH ANTHEM wordmark, not the parent RUACH two-ribbon logo. Preserve existing approved releases.
+- Latest video direction (2026-10-10): use the main RUACH white lockup for lyric-video overlays, superseding the Anthem-overlay requirement above. Choose accents to suit the song rather than requiring red; add subtle environmental shapes that belong to the song and scene (such as wind wisps and drifting seeds in country landscapes), avoiding detached geometric overlays. Channel identity and MP3 standards remain separate.
 - Follow the approved [lyric-video standard](docs/LYRIC-VIDEO-STANDARD.md): 1920x1080 only, never 4K delivery under this standard.
 - Keep RUACH branding, title position, lyric placement, and subtle next-line preview consistent with the approved reference layout. Use plain lyrics; no word highlighting or karaoke color changes.
+- Make mobile readability a required check: current lyrics target 100 px (minimum 96 px) and preview target 56 px (minimum 52 px) at 1080p; split long phrases instead of shrinking them. Verify and save 390-pixel-wide and 640-pixel-wide preview frames under the lyric-video standard.
 - Create a distinct motion background for each song, specifically expressing its vibe, lyrics, and message. Subscribers should recognize different songs at preview size; minor variations of the same generic background are insufficient.
 - After the user approves a lyric video, create its matching static YouTube thumbnail as the next deliverable. No teaser video is implied. Save all assets in the song folder and track video and thumbnail approvals separately.
 - Follow the current requested scope: a documentation-only update records this workflow and pending deliverables; it does not itself create or publish media.
@@ -52,3 +54,11 @@
 - Capture generation links, dates, model, displayed duration, lyrics revision, prompt revision, and known limitations.
 - Preserve original downloads. Use versioned derivatives for edits and exports. Document tools and export settings when applicable.
 - Before finishing, check Git status and changes, required package files, catalog links, and whether every claimed local asset exists. Report outstanding review or missing assets explicitly.
+
+## Post-publication cleanup and push
+
+Standing user instruction, 2026-10-12 (Asia/Singapore): after the approved upload is verified on YouTube, delete non-reusable assets, including the uploaded delivery MP4, and remove unapproved outputs and files. Preserve reusable motion backgrounds and branding, including their source files, dependencies and licenses. Keep approved audio masters, the approved thumbnail, lyrics, and compact approval/release/provenance records as the release archive. Remove redundant copies, temporary renders and superseded experiments; do not delete a source still required by retained reusable work.
+
+Before deletion, inventory exact song-scoped paths and sizes, confirm the uploaded video ID and approval, and record a cleanup manifest. Replace local export links with the published YouTube link and record intentional removals. Do not treat reusable background MP4 loops as disposable delivery MP4s. This instruction supersedes earlier requirements to retain every video export or unapproved revision after publication. Never remove hosted YouTube videos or GitHub Release downloads as part of local cleanup.
+
+After cleanup, update the catalog, song README, changelog and metadata. Commit and push the approved song package and related approved standards to the configured repository remote; this is standing authorization for that scoped step. Review the staged diff and assets, exclude unrelated or unapproved work, and verify the remote commit. Do not rewrite Git history or force-push. If cleanup or push is blocked, record the actual result and report the remaining work rather than claiming completion.

@@ -36,10 +36,12 @@ Record the purpose, language, lyrical focus, musical feel, vocal direction, inst
 
 ## Lyric videos and YouTube thumbnails
 
-All new videos, lyric videos, visualizers, and matching thumbnails use the approved [RUACH Anthem — Breath into Song identity](../channel/ruach-anthem/identity-approved-v001/README.md). Use its distinct musical-note/breath emblem and wordmark; preserve the established layout and historical releases. Record the exact branding source in each song project.
+Latest video direction (2026-10-10): use the main RUACH white lockup for lyric-video overlays and colors suited to the individual scene. Record the exact source and preserve prior versions. Refer to the lyric-video standard for the current branding override; the RUACH Anthem channel identity kit remains available for channel-specific work.
 Follow the approved [RUACH lyric-video standard](LYRIC-VIDEO-STANDARD.md). Deliver 1080p only with the consistent RUACH layout, plain lyrics, and subtle next-line preview. Create a unique motion background that expresses the particular song's vibe and message and is distinguishable from other songs at preview size.
 
 Record the exact video revision and user approval date. Once approved, create a matching static YouTube thumbnail and save its export and editable assets in the song folder. Track thumbnail review separately. Follow the [YouTube release standard](YOUTUBE-RELEASE-STANDARD.md) to upload approved songs to RUACH Anthem under the user's standing authorization, with full lyrics in the description and the title `[SONG TITLE] by RUACH`. Use the visual-production fields in the song template to retain the concept, provenance, approvals, and deliverable links.
+
+Mobile lyric readability is mandatory: follow the font-size minimums and save 390px/640px preview checks specified in the lyric-video standard. Keep complete phrases readable without shrinking long lines.
 
 ## Prompts and platform records
 
@@ -67,3 +69,11 @@ Before release, record the approved take/mix, artwork, credits, relevant permiss
 ## Completion check
 
 Confirm catalog and local links resolve; metadata is valid JSON; recorded local files exist; exact input revisions are saved; generated takes have URLs; missing assets and review gaps are explicit. Review Git status and diff before reporting completion.
+
+## Post-publication cleanup and push
+
+Standing user instruction, 2026-10-12 (Asia/Singapore): after the approved upload is verified on YouTube, delete non-reusable assets, including the uploaded delivery MP4, and remove unapproved outputs and files. Preserve reusable motion backgrounds and branding, including their source files, dependencies and licenses. Keep approved audio masters, the approved thumbnail, lyrics, and compact approval/release/provenance records as the release archive. Remove redundant copies, temporary renders and superseded experiments; do not delete a source still required by retained reusable work.
+
+Before deletion, inventory exact song-scoped paths and sizes, confirm the uploaded video ID and approval, and record a cleanup manifest. Replace local export links with the published YouTube link and record intentional removals. Do not treat reusable background MP4 loops as disposable delivery MP4s. This instruction supersedes earlier requirements to retain every video export or unapproved revision after publication. Never remove hosted YouTube videos or GitHub Release downloads as part of local cleanup.
+
+After cleanup, update the catalog, song README, changelog and metadata. Commit and push the approved song package and related approved standards to the configured repository remote; this is standing authorization for that scoped step. Review the staged diff and assets, exclude unrelated or unapproved work, and verify the remote commit. Do not rewrite Git history or force-push. If cleanup or push is blocked, record the actual result and report the remaining work rather than claiming completion.

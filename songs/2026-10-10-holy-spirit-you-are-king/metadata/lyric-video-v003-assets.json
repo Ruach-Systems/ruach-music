@@ -1,0 +1,57 @@
+{
+  "output": "assets/video/ruach-holy-spirit-you-are-king-lyric-video-v003-1080p.mp4",
+  "duration_seconds": 232.066667,
+  "bytes": 177376791,
+  "sha256": "7bc3b909fab2edbb065433c5a460acfb7005df2ad1f71cadcf3b2173b1576ca9",
+  "streams": {
+    "video": "h264",
+    "audio": "aac",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30.0
+  },
+  "full_decode_passed": true,
+  "audio_source_correlation": 0.9997315268250611,
+  "audio_duration_difference_seconds": 0.0138125,
+  "lyric_cues": 59,
+  "no_overlaps": true,
+  "recognized_vocal_ends_preserved": true,
+  "word_highlighting": false,
+  "next_line_preview": true,
+  "mobile_preview_widths": [
+    390,
+    640
+  ],
+  "typography": {
+    "font": "Manrope 600",
+    "current_lyric_px_range": [
+      97,
+      100
+    ],
+    "next_line_px": 56,
+    "title_header_px": 44,
+    "safe_width_px": 1680,
+    "max_lyric_width_px": 1672.28,
+    "current_min_font_at_390px_width": 19.703125,
+    "next_font_at_390px_width": 11.375
+  },
+  "loop": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "frames": 480,
+    "duration": 16,
+    "cycle_endpoint_max_pixel_difference": 0.0,
+    "seam_mean_difference": 0.12326822916666667,
+    "normal_mean_difference": 0.12905639146090536
+  },
+  "alignment_method": "Whisper small word timestamps aligned to canonical lyrics, opening checked using cropped transcription; reading lead and phrase-end holds",
+  "limitations": "Automated timing and audio checks plus still-frame visual review. Full listening and physical-phone review remain pending. Original file duration discrepancy remains documented.",
+  "audio_export": "AAC 256k from branded Take 1, no tempo change or intended trimming",
+  "source_audio_sha256": "69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda",
+  "brand_asset": "channel/ruach-anthem/ruach-lockup-white-2048.png"
+}

@@ -1,0 +1,138 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyric,Manrope-600,100,&H00F3F5F4,&H00F3F5F4,&H5018100B,&H7018100B,0,0,0,0,100,100,0,0,1,1.5,2,5,120,120,0,1
+Style: Title,Manrope-600,88,&H00F3F5F4,&H00F3F5F4,&H6018100B,&H7018100B,0,0,0,0,100,100,0,0,1,1,1,5,120,120,0,1
+Style: Small,Manrope-600,30,&H00F3F5F4,&H00F3F5F4,&H6018100B,&H7018100B,0,0,0,0,100,100,0,0,1,0,1,5,100,100,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:12.82,Title,,0,0,0,,{\pos(960,465)\fad(900,450)}Holy Spirit, You Are King
+Dialogue: 0,0:00:00.00,0:00:12.82,Small,,0,0,0,,{\pos(960,566)\fsp4\fad(900,450)}LYRIC VIDEO
+Dialogue: 0,0:00:13.17,0:03:52.05,Small,,0,0,0,,{\pos(960,120)\fs44\fad(250,600)}HOLY SPIRIT, YOU ARE KING
+Dialogue: 0,0:00:13.17,0:03:52.05,Small,,0,0,0,,{\pos(914,190)\an7\c&HACAF8D&\bord0\shad0\p1\fad(250,600)}m 0 0 l 92 0 92 3 0 3
+Dialogue: 0,0:00:00.00,0:03:52.05,Small,,0,0,0,,{\pos(330,983)\fs26\fad(700,700)}Governed by the Spirit.
+Dialogue: 0,0:00:00.00,0:03:52.05,Small,,0,0,0,,{\pos(1705,983)\fs48\fsp5\fad(700,700)}RUACH
+Dialogue: 0,0:00:13.17,0:00:17.16,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Holy Spirit, in the morning,
+Dialogue: 0,0:00:13.17,0:00:17.16,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}When the fields are washed in gold,
+Dialogue: 0,0:00:17.16,0:00:20.90,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs99}When the fields are washed in gold,
+Dialogue: 0,0:00:17.16,0:00:20.90,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}I grow quiet in Your presence,
+Dialogue: 0,0:00:20.90,0:00:24.38,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}I grow quiet in Your presence,
+Dialogue: 0,0:00:20.90,0:00:24.38,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let Your will take full control.
+Dialogue: 0,0:00:24.38,0:00:27.04,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let Your will take full control.
+Dialogue: 0,0:00:24.38,0:00:27.04,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You are nearer than my breathing,
+Dialogue: 0,0:00:27.04,0:00:30.60,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You are nearer than my breathing,
+Dialogue: 0,0:00:27.04,0:00:30.60,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yet Your throne is over all;
+Dialogue: 0,0:00:30.60,0:00:34.58,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yet Your throne is over all;
+Dialogue: 0,0:00:30.60,0:00:34.58,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}With a heart that loves Your leading,
+Dialogue: 0,0:00:34.58,0:00:38.08,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs97}With a heart that loves Your leading,
+Dialogue: 0,0:00:34.58,0:00:38.08,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}I will answer when You call.
+Dialogue: 0,0:00:38.08,0:00:42.56,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}I will answer when You call.
+Dialogue: 0,0:00:38.08,0:00:42.56,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Holy Spirit, You are King,
+Dialogue: 0,0:00:42.56,0:00:46.40,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Holy Spirit, You are King,
+Dialogue: 0,0:00:42.56,0:00:46.40,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Every breath is Yours to lead.
+Dialogue: 0,0:00:46.40,0:00:49.20,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Every breath is Yours to lead.
+Dialogue: 0,0:00:46.40,0:00:49.20,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You're the Father. You're the Son.
+Dialogue: 0,0:00:49.20,0:00:53.22,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You're the Father. You're the Son.
+Dialogue: 0,0:00:49.20,0:00:53.22,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You are King.
+Dialogue: 0,0:00:53.22,0:00:55.00,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You are King.
+Dialogue: 0,0:00:53.22,0:00:55.00,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You are one, and all I need.
+Dialogue: 0,0:00:55.00,0:00:58.30,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You are one, and all I need.
+Dialogue: 0,0:00:55.00,0:00:58.30,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the power,
+Dialogue: 0,0:00:58.30,0:01:00.14,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the power,
+Dialogue: 0,0:00:58.30,0:01:00.14,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the Kingdom,
+Dialogue: 0,0:01:00.14,0:01:01.88,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the Kingdom,
+Dialogue: 0,0:01:00.14,0:01:01.88,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the right to rule in me.
+Dialogue: 0,0:01:01.88,0:01:05.38,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the right to rule in me.
+Dialogue: 0,0:01:01.88,0:01:05.38,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my love become obedience,
+Dialogue: 0,0:01:05.38,0:01:08.80,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my love become obedience,
+Dialogue: 0,0:01:05.38,0:01:08.80,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my life be Your decree.
+Dialogue: 0,0:01:08.80,0:01:12.55,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my life be Your decree.
+Dialogue: 0,0:01:16.74,0:01:18.58,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}When Your whisper
+Dialogue: 0,0:01:16.74,0:01:18.58,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}meets my wanting,
+Dialogue: 0,0:01:18.58,0:01:20.52,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}meets my wanting,
+Dialogue: 0,0:01:18.58,0:01:20.52,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Teach my heart to choose Your way.
+Dialogue: 0,0:01:20.52,0:01:24.00,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs97}Teach my heart to choose Your way.
+Dialogue: 0,0:01:20.52,0:01:24.00,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my yes be more than singing,
+Dialogue: 0,0:01:24.00,0:01:27.58,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my yes be more than singing,
+Dialogue: 0,0:01:24.00,0:01:27.58,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let it live through every day.
+Dialogue: 0,0:01:27.58,0:01:30.88,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let it live through every day.
+Dialogue: 0,0:01:27.58,0:01:30.88,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Not from fear, but love that listens,
+Dialogue: 0,0:01:30.88,0:01:34.60,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Not from fear, but love that listens,
+Dialogue: 0,0:01:30.88,0:01:34.60,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}I lay down my claim to reign;
+Dialogue: 0,0:01:34.60,0:01:37.40,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}I lay down my claim to reign;
+Dialogue: 0,0:01:34.60,0:01:37.40,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You command with perfect wisdom,
+Dialogue: 0,0:01:37.40,0:01:41.02,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs98}You command with perfect wisdom,
+Dialogue: 0,0:01:37.40,0:01:41.02,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}I delight to bear Your name.
+Dialogue: 0,0:01:41.02,0:01:46.08,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}I delight to bear Your name.
+Dialogue: 0,0:01:41.02,0:01:46.08,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Holy Spirit, You are King,
+Dialogue: 0,0:01:46.08,0:01:49.84,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Holy Spirit, You are King,
+Dialogue: 0,0:01:46.08,0:01:49.84,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Every breath is Yours to lead.
+Dialogue: 0,0:01:49.84,0:01:53.38,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Every breath is Yours to lead.
+Dialogue: 0,0:01:49.84,0:01:53.38,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You're the Father. You're the Son.
+Dialogue: 0,0:01:53.38,0:01:56.62,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You're the Father. You're the Son.
+Dialogue: 0,0:01:53.38,0:01:56.62,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You are King.
+Dialogue: 0,0:01:56.62,0:01:58.36,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You are King.
+Dialogue: 0,0:01:56.62,0:01:58.36,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You are one, and all I need.
+Dialogue: 0,0:01:58.36,0:02:01.26,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You are one, and all I need.
+Dialogue: 0,0:01:58.36,0:02:01.26,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the power,
+Dialogue: 0,0:02:01.26,0:02:03.50,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the power,
+Dialogue: 0,0:02:01.26,0:02:03.50,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the Kingdom,
+Dialogue: 0,0:02:03.50,0:02:05.34,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the Kingdom,
+Dialogue: 0,0:02:03.50,0:02:05.34,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the right to rule in me.
+Dialogue: 0,0:02:05.34,0:02:08.72,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the right to rule in me.
+Dialogue: 0,0:02:05.34,0:02:08.72,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my love become obedience,
+Dialogue: 0,0:02:08.72,0:02:12.24,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my love become obedience,
+Dialogue: 0,0:02:08.72,0:02:12.24,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my life be Your decree.
+Dialogue: 0,0:02:12.24,0:02:17.12,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my life be Your decree.
+Dialogue: 0,0:02:12.24,0:02:17.12,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}No power stands above You,
+Dialogue: 0,0:02:17.12,0:02:20.80,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}No power stands above You,
+Dialogue: 0,0:02:17.12,0:02:20.80,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}No throne can take Your place.
+Dialogue: 0,0:02:20.80,0:02:23.64,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}No throne can take Your place.
+Dialogue: 0,0:02:20.80,0:02:23.64,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Your authority is endless,
+Dialogue: 0,0:02:23.64,0:02:27.50,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Your authority is endless,
+Dialogue: 0,0:02:23.64,0:02:27.50,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}And Your nearness fills my days.
+Dialogue: 0,0:02:27.50,0:02:31.20,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}And Your nearness fills my days.
+Dialogue: 0,0:02:27.50,0:02:31.20,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}In the quiet, in the working,
+Dialogue: 0,0:02:31.20,0:02:34.46,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}In the quiet, in the working,
+Dialogue: 0,0:02:31.20,0:02:34.46,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Keep my heart close to Your own.
+Dialogue: 0,0:02:34.46,0:02:38.08,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Keep my heart close to Your own.
+Dialogue: 0,0:02:34.46,0:02:38.08,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Every thought and every longing,
+Dialogue: 0,0:02:38.08,0:02:41.30,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Every thought and every longing,
+Dialogue: 0,0:02:38.08,0:02:41.30,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Make them subject to Your throne.
+Dialogue: 0,0:02:41.30,0:02:46.14,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Make them subject to Your throne.
+Dialogue: 0,0:02:41.30,0:02:46.14,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Holy Spirit, You are King,
+Dialogue: 0,0:02:46.14,0:02:50.02,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Holy Spirit, You are King,
+Dialogue: 0,0:02:46.14,0:02:50.02,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Every breath is Yours to lead.
+Dialogue: 0,0:02:50.02,0:02:53.64,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Every breath is Yours to lead.
+Dialogue: 0,0:02:50.02,0:02:53.64,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You're the Father. You're the Son.
+Dialogue: 0,0:02:53.64,0:02:56.86,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You're the Father. You're the Son.
+Dialogue: 0,0:02:53.64,0:02:56.86,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You are King.
+Dialogue: 0,0:02:56.86,0:02:58.72,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You are King.
+Dialogue: 0,0:02:56.86,0:02:58.72,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}You are one, and all I need.
+Dialogue: 0,0:02:58.72,0:03:02.10,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}You are one, and all I need.
+Dialogue: 0,0:02:58.72,0:03:02.10,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the power,
+Dialogue: 0,0:03:02.10,0:03:03.84,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the power,
+Dialogue: 0,0:03:02.10,0:03:03.84,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the Kingdom,
+Dialogue: 0,0:03:03.84,0:03:05.64,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the Kingdom,
+Dialogue: 0,0:03:03.84,0:03:05.64,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Yours the right to rule in me.
+Dialogue: 0,0:03:05.64,0:03:08.64,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Yours the right to rule in me.
+Dialogue: 0,0:03:05.64,0:03:08.64,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my love become obedience,
+Dialogue: 0,0:03:08.64,0:03:12.44,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my love become obedience,
+Dialogue: 0,0:03:08.64,0:03:12.44,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my life be Your decree.
+Dialogue: 0,0:03:12.44,0:03:17.22,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my life be Your decree.
+Dialogue: 0,0:03:12.44,0:03:17.22,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Holy Spirit, reign within me,
+Dialogue: 0,0:03:17.22,0:03:21.52,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Holy Spirit, reign within me,
+Dialogue: 0,0:03:17.22,0:03:21.52,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}I am Yours in everything.
+Dialogue: 0,0:03:21.52,0:03:25.62,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}I am Yours in everything.
+Dialogue: 0,0:03:21.52,0:03:25.62,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Let my love become obedience,
+Dialogue: 0,0:03:25.62,0:03:31.56,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Let my love become obedience,
+Dialogue: 0,0:03:25.62,0:03:31.56,Small,,0,0,0,,{\pos(960,615)\fs56\1c&HD0CEBE&\alpha&H20&\fad(100,0)}Holy Spirit, You are King.
+Dialogue: 0,0:03:31.56,0:03:36.66,Lyric,,0,0,0,,{\pos(960,490)\fad(60,0)\fs100}Holy Spirit, You are King.
+Dialogue: 0,0:03:37.66,0:03:52.05,Title,,0,0,0,,{\pos(960,465)\fad(900,1600)}Holy Spirit, You are King.

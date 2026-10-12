@@ -29,6 +29,7 @@ Follow the [approved lyric-video standard](../../docs/LYRIC-VIDEO-STANDARD.md).
 
 - Delivery: 1920x1080, 16:9, 30 fps; no 4K export.
 - Layout: fixed RUACH branding/title/lyric positions; plain ivory lyrics and subtle next-line preview; no word highlighting.
+- Mobile readability: main lyrics target 100 px (minimum 96 px), preview target 56 px (minimum 52 px); save 390px and 640px preview checks and split long phrases rather than reducing size.
 - Song vibe and central message:
 - Custom motion-background concept and connection to the lyrics:
 - Distinctive setting, composition, palette, motifs, and movement:
@@ -59,3 +60,10 @@ Follow the [YouTube release standard](../../docs/YOUTUBE-RELEASE-STANDARD.md).
 - Description order: title, MP3 download link, short introduction, full lyrics, RUACH channel link, accurate production credits.
 - Upload date, video ID/URL, and processing state: not uploaded
 - Verification evidence and remaining work:
+
+## Post-publication closeout
+
+- Verified YouTube URL/ID:
+- Cleanup manifest and reclaimed bytes (uploaded delivery MP4 and unapproved outputs removed; reusable background/branding retained):
+- Approved audio/thumbnail and release records retained:
+- Scoped commit, push verification, and any blockers:

@@ -16,6 +16,7 @@ Default releases are **Public**, **Not made for kids**, and include a matching R
 
 | Song | Created | Status | Folder |
 | --- | --- | --- | --- |
+| Holy Spirit, You Are King | 2026-10-10 | Video v011 and thumbnail v001 approved; [published on YouTube](https://youtu.be/mhlUouC-sFk); free MP3 available | [Song package](songs/2026-10-10-holy-spirit-you-are-king/) |
 | Your Will in My Heart | 2026-10-10 | Lyric video v005 explicitly approved; static thumbnail created; published on YouTube; MP3 download available | [Song package](songs/2026-10-10-your-will-in-my-heart/) |
 
 ## Start a song
@@ -29,3 +30,5 @@ Default releases are **Public**, **Not made for kids**, and include a matching R
 Read [organization and production standards](docs/STANDARDS.md) and [agent instructions](AGENTS.md) before working here. GitHub repository: [Ruach-Systems/ruach-music](https://github.com/Ruach-Systems/ruach-music). Uploading this archive does not mark any song as an approved master or distributed release.
 
 [Approved lyric-video standard](docs/LYRIC-VIDEO-STANDARD.md) — 1080p only, consistent RUACH layout, custom motion backgrounds matching each song, and a static YouTube thumbnail after video approval.
+
+After verified publication, follow the [post-publication cleanup and push standard](docs/YOUTUBE-RELEASE-STANDARD.md#post-publication-cleanup-and-push): remove disposable uploaded exports and unapproved work, retain reusable backgrounds/branding and the release archive, then commit and push approved changes.

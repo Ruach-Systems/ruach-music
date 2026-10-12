@@ -1,0 +1,8 @@
+{
+  "date": "2026-10-12",
+  "status": "blocked",
+  "deleted_files": 0,
+  "reason": "Automatic approval review rejected local deletion command: blocked by policy. No alternate deletion method attempted.",
+  "pending": "Remove uploaded v011 delivery MP4, duplicate v011 loop, superseded v001-v008/v010 projects and redundant v009 preview outputs.",
+  "retained": "Reusable v009 background and dependencies; branding; approved v011 source; approved thumbnail/audio; release records."
+}

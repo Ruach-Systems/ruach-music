@@ -12,3 +12,55 @@ Desktop.ini
 
 # Approved large video retained locally; user excluded it from Git on 2026-10-10.
 /songs/2026-10-10-your-will-in-my-heart/assets/video/ruach-your-will-in-my-heart-lyric-video-v005-4k.mp4
+
+# Published delivery and superseded experiments pending authorized local cleanup.
+/songs/2026-10-10-holy-spirit-you-are-king/assets/video/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v001/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v002/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v003/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v004/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v005/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v006/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v007/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v008/
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v010/
+# Reusable large loops stay local; committed background.py and clean plate regenerate them.
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/visuals/aurora-meadow-loop.mp4
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v011/visuals/aurora-meadow-loop.mp4
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/catalog-comparison.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-004.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-018.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-035.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-050.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-054.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-077.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-121.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-145.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-190.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-214.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/check-225.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/contact-sheet.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/cues.json
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/firefly-flight-comparison.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/firefly-motion-preview.mp4
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/lyrics.ass
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/lyrics.srt
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-390-018.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-390-035.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-390-050.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-390-077.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-640-018.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-640-035.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-640-050.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/mobile-640-077.png
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/render.py
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/typography-check.json
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/verification.json
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/verify-log.txt
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/verify.py
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/visuals/flight-00.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/visuals/flight-05.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/visuals/flight-10.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/visuals/flight-15.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/visuals/flight-20.jpg
+/songs/2026-10-10-holy-spirit-you-are-king/assets/project/lyric-video-v009/visuals/flight-25.jpg

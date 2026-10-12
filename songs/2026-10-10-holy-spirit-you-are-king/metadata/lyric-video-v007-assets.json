@@ -1,0 +1,258 @@
+{
+  "output": "assets/video/ruach-holy-spirit-you-are-king-lyric-video-v007-1080p.mp4",
+  "duration_seconds": 232.066667,
+  "bytes": 111137331,
+  "sha256": "d125d4518d9ceb30c14c4bde59d5f178340b84989ff9e9fd9b950dab06ba062c",
+  "streams": {
+    "video": "h264",
+    "audio": "aac",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30.0
+  },
+  "full_decode_passed": true,
+  "audio_source_correlation": 0.9997315268250611,
+  "audio_duration_difference_seconds": 0.0138125,
+  "lyric_cues": 59,
+  "no_overlaps": true,
+  "recognized_vocal_ends_preserved": true,
+  "word_highlighting": false,
+  "next_line_preview": true,
+  "mobile_preview_widths": [
+    390,
+    640
+  ],
+  "typography": {
+    "font": "Manrope 600",
+    "current_lyric_px_range": [
+      97,
+      100
+    ],
+    "next_line_px": 56,
+    "title_header_px": 44,
+    "safe_width_px": 1680,
+    "max_lyric_width_px": 1672.28,
+    "current_min_font_at_390px_width": 19.703125,
+    "next_font_at_390px_width": 11.375
+  },
+  "loop": {
+    "duration": 30,
+    "fps": 30,
+    "frames": 900,
+    "resolution": "1920x1080",
+    "cycle_endpoint_max_difference": 0,
+    "firefly_count": 19,
+    "flight_displacement_5s_px": [
+      31.486938570607915,
+      40.12199899736007,
+      42.23642261752803,
+      18.073949619490364,
+      63.64331805612833,
+      9.952546782971112,
+      71.49762442669056,
+      103.52291449610834,
+      95.06188699005244,
+      35.801216123855625,
+      61.7934395172587,
+      43.02161375368368,
+      57.748272066381425,
+      23.747367618328855,
+      57.66288560312532,
+      72.52921335044715,
+      27.503002215240585,
+      61.104329342516884,
+      115.04920951070444
+    ],
+    "paths": [
+      {
+        "x": 146.60227272727272,
+        "y": 830,
+        "size": 1.0,
+        "ax": 65.64653708583326,
+        "ay": 37.134701514457205,
+        "phase": 1.687461136841512,
+        "phase2": 6.1899249071602975
+      },
+      {
+        "x": 1212.0,
+        "y": 830,
+        "size": 0.54,
+        "ax": 52.55477993598279,
+        "ay": 26.280333972595447,
+        "phase": 5.370220321803624,
+        "phase2": 1.073322611470524
+      },
+      {
+        "x": 534.6666666666666,
+        "y": 830,
+        "size": 0.48,
+        "ax": 82.48141986701759,
+        "ay": 53.92953327109126,
+        "phase": 0.4976653310997346,
+        "phase2": 0.6512256036263621
+      },
+      {
+        "x": 316.5,
+        "y": 830,
+        "size": 0.63,
+        "ax": 63.73961235018861,
+        "ay": 54.71704109077793,
+        "phase": 0.7288714646156278,
+        "phase2": 1.1221825827339624
+      },
+      {
+        "x": 1151.0,
+        "y": 833.25,
+        "size": 0.49,
+        "ax": 79.06759102344284,
+        "ay": 37.98402560490916,
+        "phase": 5.064443481861255,
+        "phase2": 0.7216980748831271
+      },
+      {
+        "x": 1841.0833333333333,
+        "y": 836.5833333333334,
+        "size": 0.5700000000000001,
+        "ax": 87.22529898800698,
+        "ay": 25.61981310877264,
+        "phase": 0.9468107141026125,
+        "phase2": 0.46601561573723427
+      },
+      {
+        "x": 1119.5,
+        "y": 838.5,
+        "size": 0.49,
+        "ax": 74.47474390320423,
+        "ay": 60.656766436547514,
+        "phase": 0.5120011471105083,
+        "phase2": 2.490150059093726
+      },
+      {
+        "x": 466.7808219178082,
+        "y": 852.472602739726,
+        "size": 1.0,
+        "ax": 83.84512547986053,
+        "ay": 27.408594553712323,
+        "phase": 2.1664510237081402,
+        "phase2": 2.495852157222469
+      },
+      {
+        "x": 853.875,
+        "y": 853.125,
+        "size": 0.53,
+        "ax": 61.137399050163914,
+        "ay": 62.0690541736104,
+        "phase": 5.180437209395307,
+        "phase2": 6.224570143092951
+      },
+      {
+        "x": 1272.5,
+        "y": 854.5,
+        "size": 0.49,
+        "ax": 44.31859075884674,
+        "ay": 42.52595332873782,
+        "phase": 4.51739183797962,
+        "phase2": 4.325451203697102
+      },
+      {
+        "x": 516.2857142857143,
+        "y": 862.0,
+        "size": 0.52,
+        "ax": 86.91855749546151,
+        "ay": 46.69273945732888,
+        "phase": 1.012405638404431,
+        "phase2": 2.278260173852847
+      },
+      {
+        "x": 1640.888888888889,
+        "y": 867.3333333333334,
+        "size": 0.54,
+        "ax": 50.04738648646691,
+        "ay": 28.120405128885125,
+        "phase": 6.015963185659505,
+        "phase2": 3.167202563711182
+      },
+      {
+        "x": 1214.6666666666667,
+        "y": 872.8888888888889,
+        "size": 0.54,
+        "ax": 55.557741991230984,
+        "ay": 51.27328741107599,
+        "phase": 2.6419004489158144,
+        "phase2": 6.196437631562265
+      },
+      {
+        "x": 1263.4444444444443,
+        "y": 878.8888888888889,
+        "size": 0.54,
+        "ax": 50.25871908064285,
+        "ay": 38.28507153322608,
+        "phase": 1.5548456932988934,
+        "phase2": 4.166517993404388
+      },
+      {
+        "x": 1058.909090909091,
+        "y": 887.3636363636364,
+        "size": 0.56,
+        "ax": 47.7335625606416,
+        "ay": 57.47594986637567,
+        "phase": 3.788389071565642,
+        "phase2": 2.770359803064824
+      },
+      {
+        "x": 1205.5,
+        "y": 902.5,
+        "size": 0.49,
+        "ax": 63.58531932098096,
+        "ay": 26.50544898595626,
+        "phase": 3.2949888559540583,
+        "phase2": 2.509375807436405
+      },
+      {
+        "x": 57.54054054054054,
+        "y": 921.4234234234234,
+        "size": 1.0,
+        "ax": 84.6815372574283,
+        "ay": 43.78986338096913,
+        "phase": 1.3591646141860518,
+        "phase2": 5.896849439766556
+      },
+      {
+        "x": 946.9722222222222,
+        "y": 959.2222222222222,
+        "size": 0.81,
+        "ax": 51.609016358453914,
+        "ay": 55.745083832633625,
+        "phase": 3.7758182210270155,
+        "phase2": 5.319708788500547
+      },
+      {
+        "x": 1528.469387755102,
+        "y": 970,
+        "size": 1.0,
+        "ax": 72.61040416132337,
+        "ay": 59.83806761661723,
+        "phase": 2.472568292926723,
+        "phase2": 2.5255978620093504
+      }
+    ],
+    "method": "Original meadow restored with no inpainting. Original scene highlights retained; 19 compact amber fireflies follow independent 30-second flight paths with small halos.",
+    "source": "D:\\WORK\\MY APPS\\Contents\\ruach-music\\songs\\2026-10-10-holy-spirit-you-are-king\\assets\\project\\lyric-video-v005\\visuals\\aurora-meadow-loop.mp4",
+    "bytes": 91701682,
+    "decode_ok": true,
+    "decoded_frames": 900,
+    "encoded_seam_mean_change": 0.004241255144032922,
+    "encoded_normal_mean_change": 0.14849062687393857,
+    "encoded_seam_to_normal_ratio": 0.028562443524691592
+  },
+  "alignment_method": "Whisper small word timestamps aligned to canonical lyrics, opening checked using cropped transcription; reading lead and phrase-end holds",
+  "limitations": "Automated timing and audio checks plus still-frame visual review. Full listening and physical-phone review remain pending. Original file duration discrepancy remains documented.",
+  "audio_export": "AAC 256k from branded Take 1, no tempo change or intended trimming",
+  "source_audio_sha256": "69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda",
+  "brand_asset": "Text-only RUACH in Manrope 600; no symbol or logo image",
+  "background_source": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\visuals\\aurora-meadow-loop.mp4",
+  "background_exact_copy": false,
+  "background_sha256": "c5442cd5514a60cb1d509dc655795440319ab51c5062c3fd8924a9f3d2f8b5d0"
+}

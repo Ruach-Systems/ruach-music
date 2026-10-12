@@ -1,0 +1,59 @@
+{
+  "output": "assets/video/ruach-holy-spirit-you-are-king-lyric-video-v005-1080p.mp4",
+  "duration_seconds": 232.066667,
+  "bytes": 95881124,
+  "sha256": "6aa153ccaa4e8016a24a017adb8102530e5282d9579b142d7681d71965441d98",
+  "streams": {
+    "video": "h264",
+    "audio": "aac",
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30.0
+  },
+  "full_decode_passed": true,
+  "audio_source_correlation": 0.9997315268250611,
+  "audio_duration_difference_seconds": 0.0138125,
+  "lyric_cues": 59,
+  "no_overlaps": true,
+  "recognized_vocal_ends_preserved": true,
+  "word_highlighting": false,
+  "next_line_preview": true,
+  "mobile_preview_widths": [
+    390,
+    640
+  ],
+  "typography": {
+    "font": "Manrope 600",
+    "current_lyric_px_range": [
+      97,
+      100
+    ],
+    "next_line_px": 56,
+    "title_header_px": 44,
+    "safe_width_px": 1680,
+    "max_lyric_width_px": 1672.28,
+    "current_min_font_at_390px_width": 19.703125,
+    "next_font_at_390px_width": 11.375
+  },
+  "loop": {
+    "duration": 10,
+    "fps": 30,
+    "frames": 300,
+    "resolution": "1920x1080",
+    "cycle_endpoint_max_difference": 0.0,
+    "seam_mean_change": 0.09270608281893004,
+    "normal_mean_change": 0.0917772633744856,
+    "decode_ok": true,
+    "bytes": 2719946
+  },
+  "alignment_method": "Whisper small word timestamps aligned to canonical lyrics, opening checked using cropped transcription; reading lead and phrase-end holds",
+  "limitations": "Automated timing and audio checks plus still-frame visual review. Full listening and physical-phone review remain pending. Original file duration discrepancy remains documented.",
+  "audio_export": "AAC 256k from branded Take 1, no tempo change or intended trimming",
+  "source_audio_sha256": "69ab4331914a7c2a568a287161c391caaddadf1a947b9ba48e916c0b9d6dfeda",
+  "brand_asset": "Text-only RUACH in Manrope 600; no symbol or logo image",
+  "background_source": "songs\\2026-10-10-your-will-in-my-heart\\assets\\project\\lyric-video-v005\\visuals\\aurora-meadow-loop.mp4",
+  "background_exact_copy": true,
+  "background_sha256": "cbeec91cee964f34c6c63fa0b3af1dda01b951c97af9978a42c1a38c6a174b48"
+}

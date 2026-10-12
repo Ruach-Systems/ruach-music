@@ -1,0 +1,4 @@
+Tool: built-in image_gen; referenced_image_paths mode; transparent_background=false.
+Input archived as visuals/original-reference.png. Output archived as visuals/clean-meadow.png.
+
+Use case: precise-object-edit. Edit target: the supplied aurora meadow image. Create a clean background plate for animation. Remove ALL distinct bright yellow firefly orbs and their halos from the foreground meadow, especially the large lights at bottom left and bottom right and all medium lights. Reconstruct sharp natural individual grass blades in those small locations, matching nearby grass texture and illumination. No blurry patches, smudges, glow remnants, cloned repeating texture or new objects. Preserve the exact composition, mountains, sky, stars, teal/violet aurora, horizon, colors and mood. Preserve fine grass texture. No text, no logos. Same wide landscape framing. The clean grass must have no large luminous objects baked into it; those will be added separately in animation.

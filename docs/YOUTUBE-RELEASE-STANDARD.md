@@ -70,3 +70,11 @@ Put `Download the MP3:` followed by the verified direct asset link near the top 
 - `assets/evidence/`: verification screenshots or receipts.
 
 Keep channel-wide artwork in `channel/ruach-anthem/`; keep song-specific release assets in the song folder.
+
+## Post-publication cleanup and push
+
+Standing user instruction, 2026-10-12 (Asia/Singapore): after the approved upload is verified on YouTube, delete non-reusable assets, including the uploaded delivery MP4, and remove unapproved outputs and files. Preserve reusable motion backgrounds and branding, including their source files, dependencies and licenses. Keep approved audio masters, the approved thumbnail, lyrics, and compact approval/release/provenance records as the release archive. Remove redundant copies, temporary renders and superseded experiments; do not delete a source still required by retained reusable work.
+
+Before deletion, inventory exact song-scoped paths and sizes, confirm the uploaded video ID and approval, and record a cleanup manifest. Replace local export links with the published YouTube link and record intentional removals. Do not treat reusable background MP4 loops as disposable delivery MP4s. This instruction supersedes earlier requirements to retain every video export or unapproved revision after publication. Never remove hosted YouTube videos or GitHub Release downloads as part of local cleanup.
+
+After cleanup, update the catalog, song README, changelog and metadata. Commit and push the approved song package and related approved standards to the configured repository remote; this is standing authorization for that scoped step. Review the staged diff and assets, exclude unrelated or unapproved work, and verify the remote commit. Do not rewrite Git history or force-push. If cleanup or push is blocked, record the actual result and report the remaining work rather than claiming completion.
